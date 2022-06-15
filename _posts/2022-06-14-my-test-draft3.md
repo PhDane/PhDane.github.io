@@ -16,4 +16,4 @@ That should be a horizontal line break.
 ```
 
 ## Another section
-Here is a **bolded** word.
+Here is a **bolded** word.  Adding this so I can run the commit manually...
