@@ -7,7 +7,7 @@ tags: [test]
 ---
 Does it have the headline twice?
 
-Why is this [different](phDane.com) from Obsidian?
+Why is this [different](www.phDane.com) from Obsidian?
 
 ---
 That should be a horizontal line break.
