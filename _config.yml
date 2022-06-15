@@ -120,6 +120,26 @@ pwa:
 
 paginate: 10
 
+jekyll_compose:
+    auto_open: true
+
+export JEKYLL_EDITOR: VSCode
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      title:
+      date: YYYY-MM-DD HH:MM:SS -0600
+      categories: "[Category,Subcategory]"
+      tags: "[lowercase tags]"
+    posts:
+      title:
+      date: YYYY-MM-DD HH:MM:SS -0600
+      categories: "[Category,Subcategory]"
+      tags: "[lowercase tags]"
+      published: false
+      sitemap: false
+
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
