@@ -9,7 +9,7 @@ Does it have the headline twice?
 
 Why is this [different](https://PhDane.com) from Obsidian?
 
-If I post a bad link, does it [break](www.dadadadadadadada.com)?
+If I post a bad link, does it [break](https://www.dadadadadadadada.com)?
 
 ---
 That should be a horizontal line break.
