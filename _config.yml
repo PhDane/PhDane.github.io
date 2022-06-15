@@ -21,7 +21,7 @@ timezone: America/Denver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: PhDane-ToTest                          # the main title
+title: PhDane                          # the main title
 
 tagline: Online repo for management / psych knowledge   # it will display as the sub-title
 
