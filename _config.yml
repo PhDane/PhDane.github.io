@@ -82,7 +82,7 @@ theme_mode:   # [light|dark]
 # e.g. 'https://cdn.com'
 img_cdn:
 
-# the avatar on sidebar, support local or CORS resources
+# the avatar on sidebar, support local or CORS resources - this is caps sensitive
 avatar: images/Shape.jpg
 
 # boolean type, the global switch for ToC in posts.
