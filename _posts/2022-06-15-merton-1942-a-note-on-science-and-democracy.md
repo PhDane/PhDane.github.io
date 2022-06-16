@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Merton 1942 - A Note on Science and Democracy
-date: 2022-06-15 HH:MM:SS -0600
-categories: "[Comps]"
+date: 2022-06-15 12:00:00 -0600
+categories: "[Comps,Philosophy of Science]"
 tags: "[comps,philosophy of science]"
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=a+note+on+science+and+democracy&btnG=)
