@@ -22,3 +22,11 @@ And here's the [issue that hung me up for a bit...](https://github.com/cotes2020
 If you're looking for a more basic site (that allows for more customizability without jumping into CSS), this video was fairly quick and straightforward.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7SBXl94xNl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+Honestly though, [this 4-part series](https://www.youtube.com/watch?v=moJgWrD6dwg) is the best one I've seen so far.  Check out the accompanying website [here](https://evanwill.github.io/go-go-ghpages-b/).  Parts 3 and 4 were especially useful and new (to me).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/moJgWrD6dwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xQsQwp-oqSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BdhLjm4VUKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/QW7BXZ78RgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
