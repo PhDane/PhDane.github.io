@@ -22,3 +22,8 @@ Rename post
 ```bash
 bundle exec jekyll rename _posts/2014-01-24-my-new-draft.md "My New Post"
 ```
+
+Run a local copy of website ([available here](http://127.0.0.1.4000/))
+```bash
+bundle exec jekyll s
+```
