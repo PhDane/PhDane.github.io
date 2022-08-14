@@ -27,3 +27,6 @@ Run a local copy of website ([available here](http://127.0.0.1.4000/))
 ```bash
 bundle exec jekyll s
 ```
+
+Inserting a local picture
+![Ryan 2000 Self-Determination Theory](/images/ryan2000-selfdeterminationtheory.PNG =80%x)
