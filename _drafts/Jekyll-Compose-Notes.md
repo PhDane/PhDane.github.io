@@ -13,7 +13,7 @@ Create a new draft
 bundle exec jekyll draft "My new draft"
 ```
 
-Publish your draft (remember to use the date in the title)
+Publish your draft
 ```bash
 bundle exec jekyll publish _drafts/my-new-draft.md
 ```
