@@ -29,4 +29,12 @@ bundle exec jekyll s
 ```
 
 Inserting a local picture
-![Ryan 2000 Self-Determination Theory](/images/ryan2000-selfdeterminationtheory.PNG =80%x)
+- max width scales it, and the below code is for a centered picture (using a deprecated HTML tag)
+
+<p align="center">
+    <img width="80%" img src="../images/TheoryOfPlannedBehavior.PNG" alt="Theory of Planned Behavior">
+</p>
+
+OR NON-CENTERED (just markdown)
+
+![Theory of Planned Behavior](/images/TheoryOfPlannedBehavior.PNG =80%x)
