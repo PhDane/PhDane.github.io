@@ -16,4 +16,6 @@ A group of male students participated in a multi-stage experiment.  In the first
 Since saying the task would be enjoyable was a lie, dissonance was produced.  It was theorized that a student who lied for a small amount would experience greater dissonance (a larger amount would serve as a greater reason to lie, thereby producing a smaller dissonance), which would move them to change their beliefs about the experiment to bring them more in line with their actions (reducing dissonance).  The results seem to support this hypothesis.
 
 ## Application
+This reminds me of the autonomy component in [self-determination theory](todo:insert link), as well as extrinsic and intrinsic motivation.  Providing a reward can switch motivation from intrinsic to extrinsic (as happened in [Kelley 1980](todo: insert link)).  This can also help explain many of the cautionary tales regarding backfiring incentive systems.
+
 As a manager, forcing employees to do things should be a last option.  However, if this approach needs to be taken (and, I suspect, most managers would tell you that this is inevitable), enticement should be carefully considered.  Offering a large enticement could produce less “buy in” than a small enticement.
