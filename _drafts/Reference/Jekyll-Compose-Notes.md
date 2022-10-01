@@ -27,7 +27,11 @@ Run a local copy of website ([available here](http://127.0.0.1.4000/))
 ```bash
 bundle exec jekyll s
 ```
+---
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
 
+---
 Inserting a local picture
 - max width scales it, and the below code is for a centered picture (using a deprecated HTML tag)
 
