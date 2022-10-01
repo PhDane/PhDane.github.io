@@ -4,6 +4,7 @@ title: Kahneman 1979 - Prospect Theory - An Analysis of Decision Under Risk
 date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, JDM, prospect theory, great paper, framing]"
+math: true
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=prospect+theory+an+analysis+of+decision+under+risk&btnG=)

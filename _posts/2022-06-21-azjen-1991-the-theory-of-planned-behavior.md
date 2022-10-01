@@ -4,6 +4,7 @@ title: Azjen 1991 - The Theory of Planned Behavior
 date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, decision making, quantitative model, norms, attitudes, control, good paper]"
+math: true
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=the+theory+of+planned+behavior&btnG=)
 

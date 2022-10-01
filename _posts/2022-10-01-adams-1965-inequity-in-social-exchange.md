@@ -4,6 +4,7 @@ title: Adams 1965 - Inequity in Social Exchange
 date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, nwt, motivation, inequality, inequity, justice, distributive justice, reference point, framing]"
+math: true
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=inequity+in+social+exchange&btnG=)
