@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Baumeister 2001 - Bad is Stronger than Good
-date: 2022-6-20 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, negativity bias]"
 ---

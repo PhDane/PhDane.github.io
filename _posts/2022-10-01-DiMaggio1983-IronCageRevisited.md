@@ -2,7 +2,7 @@
 layout: post
 title: DiMaggio 1983 - The Iron Cage Revisited - Institutional Isomorphism and Collective
   Rationality in Organizational Fields
-date: 2022-6-19 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, hierarchy, bureaucracy, isomorphism, homogeneity, great paper]"
 ---
