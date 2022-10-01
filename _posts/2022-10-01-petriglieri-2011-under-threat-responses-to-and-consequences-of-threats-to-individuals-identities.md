@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Petriglieri 2011 -  Under Threat - Responses to and the Consequences of Threats
-  to Individuals' Identities
-date: YYYY-MM-DD HH:MM:SS -0600
+title: Petriglieri 2011 -  Under Threat - Responses to and the Consequences of Threats to Individuals' Identities
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, identity, identity threat, great paper, theory, coping, social support]"
 ---

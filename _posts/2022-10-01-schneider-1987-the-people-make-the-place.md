@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Schneider 1987 - The People Make the Place
-date: 2022-06-29 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[philosophy of science, personality, environment]"
 ---
