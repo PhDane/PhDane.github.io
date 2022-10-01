@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pugh 1969 - An Empirical Taxonomy of Structures of Work Organizations
-date: 2022-6-19 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps,organizational progression,structure,authority,bureaucracy]"
 ---

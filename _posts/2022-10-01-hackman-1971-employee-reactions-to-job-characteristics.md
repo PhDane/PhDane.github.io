@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hackman 1971 - Employee reactions to job characteristics
-date: YYYY-MM-DD HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, great paper, job design, job fit, autonomy, feedback]"
 ---

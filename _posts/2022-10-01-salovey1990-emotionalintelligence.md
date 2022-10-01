@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Salovey 1998 - Emotional Intelligence
-date: 2022-07-D1 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[emotions, emotional intelligence, empathy, comps]"
 ---

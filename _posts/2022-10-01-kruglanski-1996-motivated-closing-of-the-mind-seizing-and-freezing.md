@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kruglanski 1996 - Motivated Closing of the Mind - Seizing and Freezing
-date: YYYY-MM-DD HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, nwt, need for closure, ambiguity]"
 ---

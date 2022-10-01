@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Fiske 1980 - Attention and weight in person perception - The impact of negative
-  and extreme behavior.
-date: YYYY-MM-DD HH:MM:SS -0600
+title: Fiske 1980 - Attention and weight in person perception - The impact of negative  and extreme behavior.
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, first impressions, perception, quantitative model, negativity bias]"
 ---
