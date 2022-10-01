@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Pratt 2006 - Constructing Professional Identity - the Role of Work and Identity
-  Learning Cycles in the Customization of Identity Among Medical Residents
-date: 2022-6-19 HH:MM:SS -0600
+title: Pratt 2006 - Constructing Professional Identity - the Role of Work and Identity Learning Cycles in the Customization of Identity Among Medical Residents
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, identity, identity work, medical, qualitative, great paper]"
 ---

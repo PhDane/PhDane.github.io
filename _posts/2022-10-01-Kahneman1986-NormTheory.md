@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Kahneman 1986 - Norm Theory - Comparing Reality to Its Alternatives
-date: 2022-6-19 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, norms, cognition]"
 ---

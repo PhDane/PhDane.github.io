@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Locke 1968 - Toward a Theory of Task Motivation and Incentives
-date: 2022-6-19 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, goals, incentives, performance]"
 ---

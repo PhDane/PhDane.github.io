@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nisbett 1977 - Telling More Than We Can Know - Verbal Reports on Mental Processes
-date: 2022-6-19 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, placebo, great paper, methods, self-report, validity, bad science]"
 ---

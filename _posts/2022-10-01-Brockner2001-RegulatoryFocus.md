@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Brockner 2001 - Regulatory Focus Theory - Implications for the Study of Emotions
-  at Work
-date: 2022-6-19 HH:MM:SS -0600
+title: Brockner 2001 - Regulatory Focus Theory - Implications for the Study of Emotions at Work
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, identity, regulatory focus]"
 ---

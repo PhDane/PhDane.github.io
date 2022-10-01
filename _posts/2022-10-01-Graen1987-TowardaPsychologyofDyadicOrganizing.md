@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graen 1987 - Toward a Psychology of Dyadic Organizing
-date: 2022-6-19 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, dyad, relationship, managerial resources, negotiation, cooperation]"
 ---

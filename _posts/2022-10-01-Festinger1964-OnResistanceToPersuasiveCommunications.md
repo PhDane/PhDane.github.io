@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Festinger 1964 - On Resistance to Persuasive Communications
-date: 2022-6-19 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, persuasion, unconscious, advertising, argument]"
 ---

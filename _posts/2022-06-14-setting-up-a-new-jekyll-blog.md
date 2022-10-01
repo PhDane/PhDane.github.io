@@ -2,8 +2,8 @@
 layout: post
 title: Setting up a new Jekyll Blog
 date: 2022-06-14 12:00:00 -0600
-categories: [General,Blog]
-tags: [blog,Jekyll]
+categories: [General, Blog]
+tags: [blog, Jekyll]
 ---
 Knowing for a while now that I'd eventually need a website to showcase research, I've been on the lookout for solutions.  I currently use [Obsidian](https://obsidian.md) for a notes solution -- and I like it quite a bit.  It's introduced me to [Markdown](https://www.markdownguide.org/basic-syntax/), which has been very quick to learn.  Additionally, Obsidian allows for LaTeX-like math using [MathJax](https://www.mathjax.org) and has a great option for embedding code.  Did I mention it's free?  What isn't free however is Obsidian Publishing, which currently is $20 a month -- more than I pay for 2TB of cloud storage from Google.  This seems excessive for hosting what are essentially just text files (Obsidian files are stored as Markdown files).
 

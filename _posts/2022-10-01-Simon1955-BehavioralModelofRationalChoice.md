@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Simon 1955 - A Behavioral Model of Rational Choice
-date: 2022-6-19 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
-tags: "[comps, rationality, homo economicus, jdm, satisficing, bounded rationality,
-  aspiration level, great paper]"
+tags: "[comps, rationality, homo economicus, jdm, satisficing, bounded rationality, aspiration level, great paper]"
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=A+Behavioral+Model+of+Rational+Choice&btnG=&oq=behavioral+mode)
 

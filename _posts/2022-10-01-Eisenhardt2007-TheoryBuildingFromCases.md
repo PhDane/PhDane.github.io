@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Eisenhardt 2007 - Theory Building from Cases: Opportunities and Challenges
-date: 2022-6-19 HH:MM:SS -0600
+title: Eisenhardt 2007 - Theory Building from Cases - Opportunities and Challenges
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, case study, qualitative, theory]"
 ---

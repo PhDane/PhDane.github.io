@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Loewenstein 1996 - Out of Control - Visceral Influences on Behavior
-date: 2022-6-19 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
-tags: "[comps, addiction, impulsivity, self-interest, irrational behavior, visceral
-  factors, hedonic, great paper]"
+tags: "[comps, addiction, impulsivity, self-interest, irrational behavior, visceral factors, hedonic, great paper]"
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Out+of+Control%3A+Visceral+Influences+on+Behavior&btnG=)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Schein 1996 - Culture - The Missing Concept in Organization Studies
-date: 2022-6-19 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, culture, history of organizational behavior, philosophy of science,
   metascience, theory generation, practitioner]"

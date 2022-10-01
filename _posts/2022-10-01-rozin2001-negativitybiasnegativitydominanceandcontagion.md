@@ -1,6 +1,6 @@
 layout: post
 title: Rozin 2001 - Negativity Bias, Negativity Dominance, and Contagion
-date: 2022-8-11 HH:MM:SS -0600
+date: 2022-06-16 12:00:00 -0600
 categories: "[Comps]"
 tags: "[comps, negativity bias, contagion, positivity bias, prospect theory]"
 ---
