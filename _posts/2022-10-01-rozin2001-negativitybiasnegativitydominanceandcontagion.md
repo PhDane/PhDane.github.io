@@ -1,3 +1,4 @@
+---
 layout: post
 title: Rozin 2001 - Negativity Bias, Negativity Dominance, and Contagion
 date: 2022-06-16 12:00:00 -0600

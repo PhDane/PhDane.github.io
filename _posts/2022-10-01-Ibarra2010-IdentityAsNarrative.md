@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ibarra 2010 - Identity as Narrative: Prevalence,Effectiveness, and Consequences Of Narrative Identity Work In Macro
+title: Ibarra 2010 - Identity as Narrative - Prevalence,Effectiveness, and Consequences Of Narrative Identity Work In Macro
 Work Role Transitions
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
