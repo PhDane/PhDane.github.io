@@ -2,9 +2,9 @@
 layout: post
 title: Rizzo 1970 - Role Conflict and Ambiguity in Complex Organizations
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, power, role conflict, role ambiguity, chain-of-command, authority,
-  scale, authority]"
+categories: [Comps]
+tags: [comps, power, role conflict, role ambiguity, chain-of-command, authority,
+  scale, authority]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Role+conflict+and+ambiguity+in+complex+organizations&btnG=)
 

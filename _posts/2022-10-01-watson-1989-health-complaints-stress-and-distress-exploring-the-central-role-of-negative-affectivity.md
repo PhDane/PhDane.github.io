@@ -2,8 +2,8 @@
 layout: post
 title: Watson 1989 - Health complaints, stress, and distress - exploring the central role of negative affectivity
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, stress, negativity, health, optimism, positivity, psychosomatic]"
+categories: [Comps]
+tags: [comps, stress, negativity, health, optimism, positivity, psychosomatic]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Health+Complaints%2C+Stress%2C+and+Distress%3A+Exploring+the+Central+Role+of+Negative+Affectivity&btnG=)

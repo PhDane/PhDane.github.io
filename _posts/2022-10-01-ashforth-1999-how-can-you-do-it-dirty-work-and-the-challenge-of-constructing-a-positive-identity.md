@@ -3,8 +3,8 @@ layout: post
 title: Ashforth 1999 - "How Can You Do It?" - Dirty Work and the Challenge of Constructing
   a Positive Identity
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps,identity,socialization,dirty work,stigma,meaning,culture]"
+categories: [Comps]
+tags: [comps,identity,socialization,dirty work,stigma,meaning,culture]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=%22How+Can+You+Do+It%3F%22+-+Dirty+Work+and+the+Challenge+of+Constructing+a+Positive+Identity&btnG=)
 

@@ -2,8 +2,8 @@
 layout: post
 title: Ashforth 1989 - Social Identity Theory and the Organization
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, identity, subgroups, group conflict, great paper]"
+categories: [Comps]
+tags: [comps, identity, subgroups, group conflict, great paper]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Social+identity+theory+and+the+organization&btnG=)
 

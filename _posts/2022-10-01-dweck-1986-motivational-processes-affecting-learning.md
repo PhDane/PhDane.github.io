@@ -2,8 +2,8 @@
 layout: post
 title: Dweck 1986 - Motivational Processes Affecting Learning
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, mindset, great paper, goals, growth mindset, fixed mindset, framing, challenge avoidance, achievement]"
+categories: [Comps]
+tags: [comps, mindset, great paper, goals, growth mindset, fixed mindset, framing, challenge avoidance, achievement]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Motivational+processes+affecting+learning&btnG=)

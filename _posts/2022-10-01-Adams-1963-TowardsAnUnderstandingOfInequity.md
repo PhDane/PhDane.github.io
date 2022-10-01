@@ -2,8 +2,8 @@
 layout: post
 title: Adams 1963 - Towards an Understanding of Inequity
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, inequity, injustice, fairness, resentment]"
+categories: [Comps]
+tags: [comps, inequity, injustice, fairness, resentment]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=towards+an+understanding+of+inequity&btnG=&oq=towards+an+unders)
 

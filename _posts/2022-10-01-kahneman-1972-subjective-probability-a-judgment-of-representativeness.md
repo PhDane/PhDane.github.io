@@ -2,8 +2,8 @@
 layout: post
 title: Kahneman 1972 - Subjective Probability - A Judgment of Representativeness
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, heuristic, JDM, representativeness]"
+categories: [Comps]
+tags: [comps, heuristic, JDM, representativeness]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=subjective+probability+a+judgment+of+representativeness&btnG=)

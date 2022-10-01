@@ -2,8 +2,8 @@
 layout: post
 title: Markus 1977 - Self-Schemata and Processing Information About the Self
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps,]"
+categories: [Comps]
+tags: [comps,]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Self-schemata+and+processing+information+about+the+self&btnG=)
 

@@ -2,8 +2,8 @@
 layout: post
 title: Karasek 1979 - Job Demands, Job Decision Latitude, and Mental Strain - Implications for Job Redesign
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, great paper, job strain, mental strain, stress, autonomy, self-determination theory, self-managing, nwt]"
+categories: [Comps]
+tags: [comps, great paper, job strain, mental strain, stress, autonomy, self-determination theory, self-managing, nwt]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Job+Demands%2C+Job+Decision+Latitude%2C+and+Mental+Strain+-+Implications+for+Job+Redesign&btnG=)

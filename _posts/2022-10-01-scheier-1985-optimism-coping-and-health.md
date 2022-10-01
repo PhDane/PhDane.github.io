@@ -2,8 +2,8 @@
 layout: post
 title: Scheier 1985 - Optimism, Coping, and Health - Assessment and Implications of Generalized Outcome Expectancies
 date: 2022-06-16 12:00:00 -0600
-categories: "[comps]"
-tags: "[comps, optimism, scale development, depression, stress, coping, nwt]"
+categories: [Comps]
+tags: [comps, optimism, scale development, depression, stress, coping, nwt]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Optimism%2C+Coping%2C+and+Health%3A+Assessment+and+Implications+of+Generalized+Outcome+Expectancies&btnG=)

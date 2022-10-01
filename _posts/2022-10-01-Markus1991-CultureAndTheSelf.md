@@ -2,8 +2,8 @@
 layout: post
 title: Markus 1991 - Culture and the Self - Implications for Cognition, Emotion, and Motivation
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, independence, interdependence, culture, self, identity]"
+categories: [Comps]
+tags: [comps, independence, interdependence, culture, self, identity]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Markus+1991+-+Culture+and+the+Self%3A+Implications+for+Cognition%2C+Emotion%2C+and+Motivation&btnG=)
 

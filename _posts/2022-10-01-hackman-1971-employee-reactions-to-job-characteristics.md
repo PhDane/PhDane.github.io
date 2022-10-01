@@ -2,8 +2,8 @@
 layout: post
 title: Hackman 1971 - Employee reactions to job characteristics
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, great paper, job design, job fit, autonomy, feedback]"
+categories: [Comps]
+tags: [comps, great paper, job design, job fit, autonomy, feedback]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Employee+reactions+to+job+characteristics&btnG=)
 

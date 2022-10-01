@@ -2,8 +2,8 @@
 layout: post
 title: Festinger 1962 - Cognitive Dissonance
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, cognitive dissonance]"
+categories: [Comps]
+tags: [comps, cognitive dissonance]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&as_vis=1&q=festinger+cognitive+dissonance+scientific+american&oq=festinger+cognitive+dissonance)
 

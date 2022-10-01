@@ -2,8 +2,8 @@
 layout: post
 title: Tversky 1984 - Choices, values, and frames
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[great paper, nwt, jdm, framing, heuristic, prospect theory, risk]"
+categories: [Comps]
+tags: [great paper, nwt, jdm, framing, heuristic, prospect theory, risk]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=choices+value+and+frames&btnG=)

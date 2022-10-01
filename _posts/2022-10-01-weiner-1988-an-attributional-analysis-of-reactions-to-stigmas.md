@@ -2,8 +2,8 @@
 layout: post
 title: Weiner 1988 - An attributional analysis of reactions to stigmas
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, volition, attribution, great paper, stigma, mental illness, agency, pity, charity, AIDS]"
+categories: [Comps]
+tags: [comps, volition, attribution, great paper, stigma, mental illness, agency, pity, charity, AIDS]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=An+Attributional+Analysis+of+Reactions+to+Stigmas&btnG=)

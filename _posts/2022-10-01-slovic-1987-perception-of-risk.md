@@ -2,8 +2,8 @@
 layout: post
 title: Slovic 1987 - Perception of Risk
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, JDM, risk, observability, demonstrability, great paper, future research]"
+categories: [Comps]
+tags: [comps, JDM, risk, observability, demonstrability, great paper, future research]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=perception+of+risk&btnG=)

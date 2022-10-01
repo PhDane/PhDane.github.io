@@ -2,8 +2,8 @@
 layout: post
 title: Festinger 1954 - A Theory of Social Comparison Processes
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, social comparison, reference, comparison, anchoring, great paper]"
+categories: [Comps]
+tags: [comps, social comparison, reference, comparison, anchoring, great paper]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=A+theory+of+social+comparison+processes.&btnG=&oq=A+theory+of+social+comparison+processes)
 

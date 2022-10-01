@@ -2,8 +2,8 @@
 layout: post
 title: Schwartz - The Tyranny of Choice
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, nwt, satisficing, choice]"
+categories: [Comps]
+tags: [comps, nwt, satisficing, choice]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=the+tyranny+of+choice&btnG=)

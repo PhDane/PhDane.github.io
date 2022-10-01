@@ -2,8 +2,8 @@
 layout: post
 title: Festinger 1952 - Some Consequences of De-Individuation in a Group
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, anonymity, de-individuation, group]"
+categories: [Comps]
+tags: [comps, anonymity, de-individuation, group]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&as_vis=1&q=Some+Consequences+of+De-individuation+in+a+Group.&btnG=)
 

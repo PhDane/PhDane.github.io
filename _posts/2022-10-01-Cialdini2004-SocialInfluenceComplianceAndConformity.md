@@ -2,8 +2,8 @@
 layout: post
 title: Cialdini 2004 - Social Influence - Compliance and Conformity
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, compliance, conformity, great paper]"
+categories: [Comps]
+tags: [comps, compliance, conformity, great paper]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Social+Influence%3A+Compliance+and+Conformity&btnG=)
 

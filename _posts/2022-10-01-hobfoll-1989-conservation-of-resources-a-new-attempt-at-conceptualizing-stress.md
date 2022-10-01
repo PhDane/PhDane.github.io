@@ -2,8 +2,8 @@
 layout: post
 title: Hobfoll 1989 - Conservation of Resources - A New Attempt at Conceptualizing Stress
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, stress, threat, resources, great paper, theory, sacrifice, theory]"
+categories: [Comps]
+tags: [comps, stress, threat, resources, great paper, theory, sacrifice, theory]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Conservation+of+resources%3A+a+new+attempt+at+conceptualizing+stress.&btnG=)

@@ -2,8 +2,8 @@
 layout: post
 title: Carver 1989 - Assessing Coping Strategies - a Theoretically Based Approach
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, stress, coping, denial, acceptance, substance abuse, scale development]"
+categories: [Comps]
+tags: [comps, stress, coping, denial, acceptance, substance abuse, scale development]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Assessing+coping+strategies%3A+A+theoretically+based+approach&btnG=)
 

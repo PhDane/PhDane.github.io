@@ -2,8 +2,8 @@
 layout: post
 title: Sheeran 2016 - The Intention–Behavior Gap
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, intention, self-regulation, intention-behavior gap, goal setting, feedback]"
+categories: [Comps]
+tags: [comps, intention, self-regulation, intention-behavior gap, goal setting, feedback]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=intention+behavior+gap&btnG=)

@@ -2,8 +2,8 @@
 layout: post
 title: Darley 1973 - 'From Jerusalem to Jericho' - A study of situational and dispositional variables in helping behavior
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[seminary, samaritan, mindfulness, hurry, helping, organizational citizenship behavior, fundamental attribution error, great paper]"
+categories: [Comps]
+tags: [seminary, samaritan, mindfulness, hurry, helping, organizational citizenship behavior, fundamental attribution error, great paper]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=from+jerusalem+to+jericho&btnG=)

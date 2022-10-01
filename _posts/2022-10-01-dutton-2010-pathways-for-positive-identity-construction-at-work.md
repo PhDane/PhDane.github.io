@@ -2,8 +2,8 @@
 layout: post
 title: Dutton 2010 - Pathways for Positive Identity Construction at Work - Four Types of Positive Identity and the Building of Social Resources
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, positive psychology, identity, positive identity, social resources, nwt, progression, whole self, great paper, theory paper]"
+categories: [Comps]
+tags: [comps, positive psychology, identity, positive identity, social resources, nwt, progression, whole self, great paper, theory paper]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Pathways+for+positive+identity+construction+at+work%3A+Four+types+of+positive+identity+and+the+building+of+social+resources&btnG=)

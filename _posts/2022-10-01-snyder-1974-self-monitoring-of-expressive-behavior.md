@@ -2,8 +2,8 @@
 layout: post
 title: Snyder 1974 - Self-monitoring of expressive behavior
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[self-monitoring, authenticity]"
+categories: [Comps]
+tags: [self-monitoring, authenticity]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Self-monitoring+and+expressive+behavior&btnG=)

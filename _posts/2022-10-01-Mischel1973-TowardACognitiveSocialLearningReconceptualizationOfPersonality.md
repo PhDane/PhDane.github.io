@@ -2,8 +2,8 @@
 layout: post
 title: Mischel 1973 - Toward a Cognitive Social Learning Reconceptualization of Personality
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, behaviorism, personality, situation, subjectivity]"
+categories: [Comps]
+tags: [comps, behaviorism, personality, situation, subjectivity]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Toward+a+cognitive+social+learning+reconceptualization+of+personality&btnG=)
 

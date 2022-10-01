@@ -2,8 +2,8 @@
 layout: post
 title: Kahneman 1986 - Norm Theory - Comparing Reality to Its Alternatives
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, norms, cognition]"
+categories: [Comps]
+tags: [comps, norms, cognition]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Norm+Theory%3A+Comparing+Reality+to+Its+Alternatives&btnG=)
 

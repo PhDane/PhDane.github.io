@@ -2,8 +2,8 @@
 layout: post
 title: Festinger 1964 - On Resistance to Persuasive Communications
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, persuasion, unconscious, advertising, argument]"
+categories: [Comps]
+tags: [comps, persuasion, unconscious, advertising, argument]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&as_vis=1&q=On+resistance+to+persuasive+communications.&btnG=)
 

@@ -2,8 +2,8 @@
 layout: post
 title: Tajfel 2004 - The Social Identity Theory of Intergroup Behavior
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[social identity theory, identity, intergroup conflict, status, identity work]"
+categories: [Comps]
+tags: [social identity theory, identity, intergroup conflict, status, identity work]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=tajfel+and+turner+social+identity+theory&btnG=&oq=tajfel+and+turner)

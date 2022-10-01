@@ -2,8 +2,8 @@
 layout: post
 title: Locke 1968 - Toward a Theory of Task Motivation and Incentives
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, goals, incentives, performance]"
+categories: [Comps]
+tags: [comps, goals, incentives, performance]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Toward+a+theory+of+task+motivation+and+incentives&btnG=)
 

@@ -2,8 +2,8 @@
 layout: post
 title: Rhoades 2002 - Perceived Organizational Support - A Review of the Literature
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[perceived organizational support, comps, meta-analysis, review, fairness, commitment, bosses, relationships]"
+categories: [Comps]
+tags: [perceived organizational support, comps, meta-analysis, review, fairness, commitment, bosses, relationships]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Perceived+organizational+support&btnG=)

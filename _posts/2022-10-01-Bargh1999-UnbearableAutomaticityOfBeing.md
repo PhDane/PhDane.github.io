@@ -2,8 +2,8 @@
 layout: post
 title: Bargh 1999 - The Unbearable Automaticity of Being
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps,unconscious processes,automaticity,replicability crisis]"
+categories: [Comps]
+tags: [comps,unconscious processes,automaticity,replicability crisis]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=The+unbearable+automaticity+of+being&btnG=)
 

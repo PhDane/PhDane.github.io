@@ -2,8 +2,8 @@
 layout: post
 title: Weick 2005 - Organizing and the Process of Sensemaking
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[organizing, sensemaking, decision making, jdm]"
+categories: [Comps]
+tags: [organizing, sensemaking, decision making, jdm]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=organizing+and+the+process+of+sensemaking&btnG=&oq=organizing+and+the+)

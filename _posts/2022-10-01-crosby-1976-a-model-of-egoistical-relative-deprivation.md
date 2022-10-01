@@ -2,8 +2,8 @@
 layout: post
 title: Crosby 1976 - A model of egoistical relative deprivation
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, relative deprivation, unhappiness, nwt, theory, great paper, injustice, justice, ability, fairness, referents, anchoring, framing, contrast]"
+categories: [Comps]
+tags: [comps, relative deprivation, unhappiness, nwt, theory, great paper, injustice, justice, ability, fairness, referents, anchoring, framing, contrast]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=A+Model+of+Egoistical+Relative+Deprivation&btnG=)

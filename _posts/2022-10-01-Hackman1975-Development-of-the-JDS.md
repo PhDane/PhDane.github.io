@@ -2,8 +2,8 @@
 layout: post
 title: Hackman 1975 - Development of the Job Diagnostic Survey
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, meaningfulness, autonomy, feedback, job satisfaction, scale]"
+categories: [Comps]
+tags: [comps, meaningfulness, autonomy, feedback, job satisfaction, scale]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Development+of+the+job+diagnostic+survey&btnG=)
 

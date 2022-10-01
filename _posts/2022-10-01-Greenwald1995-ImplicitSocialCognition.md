@@ -2,8 +2,8 @@
 layout: post
 title: Greenwald 1995 - Implicit Social Cognition - Attitudes, Self-Esteem, and Stereotypes
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, attitudes, unconscious, implicit attitudes, stereotypes, indirect measures]"
+categories: [Comps]
+tags: [comps, attitudes, unconscious, implicit attitudes, stereotypes, indirect measures]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Implicit+social+cognition%3A+Attitudes%2C+self-esteem%2C+and+stereotypes&btnG=)
 

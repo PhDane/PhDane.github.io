@@ -2,8 +2,8 @@
 layout: post
 title: Crocker 1989 - Social Stigma and Self-Esteem - The Self-Protective Properties of Stigma
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, stigma, self-esteem, dealing with stigma]"
+categories: [Comps]
+tags: [comps, stigma, self-esteem, dealing with stigma]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Social+stigma+and+self-esteem%3A+The+self-protective+properties+of+stigma&btnG=)

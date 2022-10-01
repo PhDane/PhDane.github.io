@@ -2,8 +2,8 @@
 layout: post
 title: Weick 1993 - The Collapse of Sensemaking in Organizations - The Mann Gulch Disaster
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, sensemaking, qualitative, historical, archival, narrative, great paper, firefighting, team, leader, trust, creativity, leader qualities]"
+categories: [Comps]
+tags: [comps, sensemaking, qualitative, historical, archival, narrative, great paper, firefighting, team, leader, trust, creativity, leader qualities]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=The+Collapse+of+Sensemaking+in+Organizations+-+The+Mann+Gulch+Disaster&btnG=)

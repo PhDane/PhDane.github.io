@@ -2,8 +2,8 @@
 layout: post
 title: Taylor 1988 - Illusion and Well-Being: A Social Psychological Perspective on Mental Health
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, depression, positivity, mental health, heuristic, self-concept, self-confidence, control, optimism, illusion]"
+categories: [Comps]
+tags: [comps, depression, positivity, mental health, heuristic, self-concept, self-confidence, control, optimism, illusion]
 ---
 
 ## Summary

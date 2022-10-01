@@ -2,8 +2,8 @@
 layout: post
 title: Shamir 1993 - The Motivational Effects of Charismatic Leadership A Self-Concept Based Theory
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[leadership, charismatic leadership, motivation, identity, charisma, comps]"
+categories: [Comps]
+tags: [leadership, charismatic leadership, motivation, identity, charisma, comps]
 ---
 
 ## Summary

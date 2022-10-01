@@ -3,8 +3,8 @@ layout: post
 title: Meindl 1995 - The Romance of Leadership as a Follower-centric Theory - a Social
   Constructionist Approach
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, leadership, reputation, impression management, framing, theory]"
+categories: [Comps]
+tags: [comps, leadership, reputation, impression management, framing, theory]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Meindl+1995+-+The+Romance+of+Leadership+as+a+Follower-centric+Theory+-+a+Social+Constructionist+Approach&btnG=)
 

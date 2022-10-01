@@ -2,8 +2,8 @@
 layout: post
 title: Roy 1959 - "Banana time" - Job satisfaction and informal interaction
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, ritual, horseplay, humor, boredom, participant observation, qualitative, professionalism, great paper]"
+categories: [Comps]
+tags: [comps, ritual, horseplay, humor, boredom, participant observation, qualitative, professionalism, great paper]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=roy+banana+time&btnG=)

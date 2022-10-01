@@ -2,8 +2,8 @@
 layout: post
 title: Ibarra 1999 - Provisional Selves - Experimenting with Image and Identity in Professional Adaptation
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, success, qualitative, great paper, identity, transition, adaptation, nwt, authenticity, style]"
+categories: [Comps]
+tags: [comps, success, qualitative, great paper, identity, transition, adaptation, nwt, authenticity, style]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=provisional+selves&btnG=)

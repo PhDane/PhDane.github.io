@@ -2,8 +2,8 @@
 layout: post
 title: Ryan 2000 - Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, great paper, self-determination theory, rewards, autonomy, volition, competence, relatedness, social needs]"
+categories: [Comps]
+tags: [comps, great paper, self-determination theory, rewards, autonomy, volition, competence, relatedness, social needs]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Self-determination+theory+and+the+facilitation+of+intrinsic+motivation%2C+social+development%2C+and+well-being&btnG=)
 

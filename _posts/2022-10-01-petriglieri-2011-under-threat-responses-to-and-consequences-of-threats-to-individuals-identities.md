@@ -2,8 +2,8 @@
 layout: post
 title: Petriglieri 2011 -  Under Threat - Responses to and the Consequences of Threats to Individuals' Identities
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, identity, identity threat, great paper, theory, coping, social support]"
+categories: [Comps]
+tags: [comps, identity, identity threat, great paper, theory, coping, social support]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=under+threat+responses+to+and+consequences+of+threats+to+individual+identities&btnG=)
 

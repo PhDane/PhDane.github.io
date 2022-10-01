@@ -2,8 +2,8 @@
 layout: post
 title: Edmonson 1999 - Psychological safety and learning behavior in work teams
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, psychological safety, teams, groups, trust, full-cycle research, voice, qualitative, quantitative]"
+categories: [Comps]
+tags: [comps, psychological safety, teams, groups, trust, full-cycle research, voice, qualitative, quantitative]
 ---
 
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=psychological+safety+and+learning+behavior+in+work+teams&btnG=)

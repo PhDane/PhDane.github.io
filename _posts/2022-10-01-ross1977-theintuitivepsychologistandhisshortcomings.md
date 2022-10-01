@@ -2,8 +2,8 @@
 layout: post
 title: Ross 1977 - The Intuitive Psychologist and His Shortcomings
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, fundamental attribution error, bias, jdm, empathy]"
+categories: [Comps]
+tags: [comps, fundamental attribution error, bias, jdm, empathy]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=The+intuitive+psychologist+and+his+shortcomings%3A+Distortions+in+the+attribution+process&btnG=)
 

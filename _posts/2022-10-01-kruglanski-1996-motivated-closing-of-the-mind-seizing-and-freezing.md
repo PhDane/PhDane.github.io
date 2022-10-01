@@ -2,8 +2,8 @@
 layout: post
 title: Kruglanski 1996 - Motivated Closing of the Mind - Seizing and Freezing
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, nwt, need for closure, ambiguity]"
+categories: [Comps]
+tags: [comps, nwt, need for closure, ambiguity]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Motivated+Closing+of+the+Mind%3A+%22Seizing%22+and+%22Freezing%27&btnG=)
 

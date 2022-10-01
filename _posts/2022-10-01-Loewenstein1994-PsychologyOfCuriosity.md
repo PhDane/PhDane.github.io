@@ -2,8 +2,8 @@
 layout: post
 title: Loewenstein 1994 - The Psychology of Curiosity - A Review and Reinterpretation
 date: 2022-06-16 12:00:00 -0600
-categories: "[Comps]"
-tags: "[comps, curiosity, review, great paper, boredom]"
+categories: [Comps]
+tags: [comps, curiosity, review, great paper, boredom]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Loewenstein+1994+-+The+Psychology+of+Curiosity+-+A+Review+and+Reinterpretation&btnG=)
 
