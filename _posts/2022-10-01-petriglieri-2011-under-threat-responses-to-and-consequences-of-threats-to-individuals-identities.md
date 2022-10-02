@@ -16,7 +16,7 @@ _Anticipated identity harm_ takes three forms - 1) an event could devalue an ide
 
 _Identity threat coping responses_ either seek to protect the identity or to restructure the identity.  Identity protection generally occurs through derogation of the threat, concealment of the identity (so that it’s not as available to be threatened), and positive distinctiveness.  _Positive distinctiveness_ refers to the tactic whereby an individual under threat attempts to frame the identity positively, rather than negatively.  Identity restructuring techniques include changing the salience or importance of a threatened identity, changing the meanings associated the identity, and abandoning the identity.  The model is presented below.
 
-![Identity Threat Model](/images/Petriglieri2011-IdentityThreatModel.PNG =80%x)
+![Identity Threat Model](/images/Petriglieri2011-IdentityThreatModel.png =80%x)
 
 ![Identity Threat Model](/images/Petriglieri2011-ResponsestoIdentityThreat.png  =80%x)
 
