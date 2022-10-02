@@ -15,7 +15,7 @@ Interesting to note that the composite construct of job strain was able to expla
 ## Summary
 **Job strain** (also called mental strain) is a composite construct that combines _job demands_ and _job decision latitude_.  Job demands consist of workplace stressors regarding tasks that need to be accomplished by an employee.  _Overload_ occurs “when  the environmental situation poses demands which exceed the individual's capabilities for meeting them.”  This is similar to psychological definitions for stress, which occurs when demands are made on a person who does not have (or perceives themselves as not having) the resources to accomplish those demands.  Job decision latitude refers to the amount of control or discretion an employee has over completing their work.  High job strain is caused by the combination of low decision latitude and high job demands.
 
-![Job Strain](/images/Karasek1979-JobStrain.png =80%x)
+![Job Strain](/images/Karasek1979-JobStrain.png){: style="max-width: 80%"}
 
 In the preceding 2x2 matrix, holding job decision latitude constant, increasing job demands will result in increased strain.  High job decision latitude and high job demands leads to increased competency as workers are given leeway to experiment with demand fulfillment techniques.  These jobs, called “active” jobs, also produce the most satisfaction.  Low job decision latitude and low job demands leads to reduced activity and increased passivity, or “reduction in general problem-solving activity.”  The model is confirmed across 2 large-scale data sets, one of which is longitudinal.
 

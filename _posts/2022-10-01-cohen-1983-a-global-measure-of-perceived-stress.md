@@ -15,7 +15,7 @@ The **Perceived Stress Scale** (PSS) is an extremely popular tool for measuring 
 The PSS is meant to measure the degree to which events feel “unpredictable, uncontrollable, and overloading,” though the items aren’t broken out into subscales, nor was factor analysis used in item selection.  The original 14-item measure was later revised (see Cohen and Williamson 1988 - “Perceived Stress in a Probability Sample of the United States”) into a 10-item measure that had better psychometrics than the 14-item version.  There is also a 4-item version, which has significantly poorer psychometrics.
 
 ---
-![Perceived Stress Scale 10](/images/Cohen1988-PerceivedStressScore10.png =80%x)
+![Perceived Stress Scale 10](/images/Cohen1988-PerceivedStressScore10.png){: style="max-width: 80%"}
 ---
 ## Application
 A useful tool for assessing general stress.  Longitudinally stable at 2 days, less so at 6 weeks (though still acceptable).

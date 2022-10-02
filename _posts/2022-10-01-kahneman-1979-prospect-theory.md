@@ -30,7 +30,7 @@ v&=\text{the value function}
 \end{aligned}$$
 The weighting function recognizes that lower frequencies are often subjectively _over-estimated_ and higher frequencies are often subjectively _under-estimated_.  The function, which takes an objective probability as input and outputs a decision-weighted probability, is shown in the following diagram…
 
-![Weighting Function](/images/Kahneman1979-ProspectTheory2.png =80%x)
+![Weighting Function](/images/Kahneman1979-ProspectTheory2.png){: style="max-width: 80%"}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nFTRwD85AQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -38,7 +38,7 @@ The weighting function recognizes that lower frequencies are often subjectively 
 
 The value function highlights the fact that, rather than being sensitive to absolute magnitudes, humans are instead attuned to _relative_ changes.  As the authors put it, “The same level of wealth, for example, may imply abject poverty for one person and great riches for another – depending on their current assets.”  Specifically, “losses loom larger than gains.”  This is shown by the fact that the loss side of the function has a steeper slope than does the gain function.  The value function is both monotonic and  non-linear, as shown below…
 
-![Weighting Function](/images/Kahneman1979-ProspectTheory.png =80%x)
+![Weighting Function](/images/Kahneman1979-ProspectTheory.png){: style="max-width: 80%"}
 
 ## Application
 It's important to be aware of how prospect theory affects our intuitive decision-making.  In situations where we have something, and might lose it (negative framing), we act risk averse.  In situations where we owe something, and might not have to pay it back (e.g., "double or nothing" - positive framing), we are risk-seeking.

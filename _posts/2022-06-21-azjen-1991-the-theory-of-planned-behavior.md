@@ -10,7 +10,7 @@ math: true
 
 Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human Decision Processes, 50(2), 179–211.
 
-![The Theory of Planned Behavior](/images/TheoryOfPlannedBehavior.png){: width="972" height="589" style="max-width: 60%"}
+![The Theory of Planned Behavior](/images/TheoryOfPlannedBehavior.png){: style="max-width: 80%"}
 
 ## Summary
 In terms of predicting action in specific situations, both disposition and personality traits have low accuracy, though their influence can be seen by observing behavior over a longer period of time.  According to the **theory of planned behavior**, _intention_ is central to the process of conscious thought translating into behavior.  Stronger intention increases the probability of the behavior being completed.  Intention takes into account a number of factors which either strengthen or weaken it.

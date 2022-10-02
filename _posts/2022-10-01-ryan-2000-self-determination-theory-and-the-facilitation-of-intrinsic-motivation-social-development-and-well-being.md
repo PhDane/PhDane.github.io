@@ -10,7 +10,7 @@ tags: [comps, great paper, self-determination theory, rewards, autonomy, volitio
 Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American psychologist, 55(1), 68.
 
 ## Summary
-![Ryan 2000 Self-Determination Theory](/images/ryan2000-selfdeterminationtheory.png =80%x)
+![Ryan 2000 Self-Determination Theory](/images/ryan2000-selfdeterminationtheory.png){: style="max-width: 80%"}
 
 This was a very well-written article.  It is clear and logical in its flow.  It cites convincing research in favor of its argument.  I can see why it has so many citations.
 

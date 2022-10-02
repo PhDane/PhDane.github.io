@@ -17,7 +17,7 @@ Adaptation is the process that occurs when an individual attempts to improve the
 
 **Observation**, especially upwards observation of possible role models, allows an individual to bank resources (“tacit knowledge, attitudes, routines, impression management techniques”) that aid in the adaptation.  Through _role prototyping_, individuals are able to evaluate the role performance of others, selecting for credibility.  _Identity matching_ involves evaluating one’s values and attributes and selecting role models based on aspirational similarity (or future “fit”).  Upon identifying a role model, individuals begin **experimenting with provisional selves**.  This is accomplished most commonly through _imitation_, while the second most popular method was through employing “true-to-self strategies,” which were concerned with authenticity.  Finally, **provisional selves were evaluated** using both _internal_ and _external_ evaluations, both of which are positively and negatively valenced.  _Feedback_ is specifically related to external evaluations.
 
-![Provisional Selves](/images/Ibarra1999-ProvisionalSelves.png =80%x)
+![Provisional Selves](/images/Ibarra1999-ProvisionalSelves.png){: style="max-width: 80%"}
 
 ## Application
 In training, it is important to provide exposure to individuals who model desired traits and behaviors.  Control over socialization can be exerted by making role model selection explicit.  New hires should be allowed time for socialization (and adaptation) before accurate assessments can be made.
