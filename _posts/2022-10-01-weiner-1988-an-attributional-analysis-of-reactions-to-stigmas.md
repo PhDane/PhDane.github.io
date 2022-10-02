@@ -15,6 +15,11 @@ Reactions to stigma are influenced by two dimensions: attributed controllability
 
 ![Stigmas in Two Dimensions](/images/Weiner1988-ReactionsToStigma.png){: style="max-width: 60%"}
 
+![Stigmas in Two Dimensions](/images/Weiner1988-ReactionsToStigma.png)
+
+![Stigmas in Two Dimensions](/images/Weiner1988-ReactionsToStigma.png =60%x)
+
+
 A second study manipulated the controllable / uncontrollable aspect of the stigmatized condition.  For example, AIDS was portrayed as having been the result of a blood transfusion or as the result of a promiscuous sex life.  This manipulation was successful in changing the attributed controllability of a condition.  While attributing a mental illness to uncontrollable factors can have “positive consequences for self-regard,” it can also lower self-efficacy and inhibit growth (the twin-edged locus of control).  Additionally, some stigmas were only slight changed in terms of responsibility attributions, inferring that each stigma carries with it a specific level of immutability, or, as stated by the authors, “Alzheimer's disease and Vietnam War syndrome cannot be turned into sins, and child abuse cannot be transformed from a sin into a sickness.”
 
 ## Application
