@@ -32,11 +32,13 @@ x&=\text{value}\\
 v&=\text{the value function}
 \end{aligned}$$
 
-The weighting function recognizes that lower frequencies are often subjectively _over-estimated_ and higher frequencies are often subjectively _under-estimated_.  The function, which takes an objective probability as input and outputs a decision-weighted probability, is shown in the following diagram…
-
-![Weighting Function](/images/Kahneman1979-ProspectTheory2.png){: style="max-width: 80%"}
+The weighting function recognizes that lower frequencies are often subjectively _over-estimated_ and higher frequencies are often subjectively _under-estimated_.  
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/nFTRwD85AQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+The function, which takes an objective probability as input and outputs a decision-weighted probability, is shown in the following diagram…
+
+![Weighting Function](/images/Kahneman1979-ProspectTheory2.png){: style="max-width: 80%"}
 
 >**Note:** Current research indicates that the actual crossover for true probability and decision-weighted probability occurs at approximately 0.35 (not the lower value shown on this graph). 
 {: .prompt-tip }
