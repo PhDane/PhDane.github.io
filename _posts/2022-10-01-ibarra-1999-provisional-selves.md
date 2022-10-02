@@ -20,4 +20,3 @@ Adaptation is the process that occurs when an individual attempts to improve the
 
 ## Application
 In training, it is important to provide exposure to individuals who model desired traits and behaviors.  Control over socialization can be exerted by making role model selection explicit.  New hires should be allowed time for socialization (and adaptation) before accurate assessments can be made.
-

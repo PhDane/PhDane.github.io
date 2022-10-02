@@ -16,7 +16,6 @@ Risk assessment can be heavily influenced by social factors.  Downplaying certai
 
 The author compares accidents to stones dropped in a pond.  The example of Three Mile Island is cited.  In that incident, no one died (so experts might have categorized it as low risk), but that incident resulted in massive regulation being imposed on the nuclear industry (the social pressure was high to do so, because lay people evaluated the risk as large).  Some events cause small ripples, while some cause large ripples.  Unfortunately, experts aren’t always accurate in predictions of situations that will really make waves.  The “signal potential” of an accident seems to be a function of where it lies in the factor space.  
 
-
 ![Slovic 1987 - Perception of Risk - Fig. 1](/images/Slovic1987-PerceptionofRisk2.png){: style="max-width: 80%"}
 
 A large accident with many fatalities in a “known” system (like a train wreck) might not cause social outrage, but a small accident in an “unknown” system _might_ (as in the case of a recombinant DNA lab).  The unknown nature of the second accident, because it is poorly understood or perhaps not demonstrably safe, could be perceived as having massive risk.  These are referred to as **“higher order impacts”** - referring to impacts beyond the immediate situation.

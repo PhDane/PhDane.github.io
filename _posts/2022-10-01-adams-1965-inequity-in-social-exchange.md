@@ -36,4 +36,3 @@ The paper concludes with a number of propositions, which are now quoted verbatim
 
 ## Application
 Understanding that the equation can be balanced in a number of ways is crucial to a manager’s role.  As stated elsewhere, an employee that is asking for a raise might instead accept lessened responsibilities.  This also highlights the importance of controlling salient referents for employees.
-

@@ -15,6 +15,5 @@ Snyder, M. (1974). Self-monitoring of expressive behavior. Journal of personalit
 
 ![Snyder 1974 Self-Monitoring Scale](/images/Snyder1974-SelfMonitoringMeasure.png){: style="max-width: 80%"}
 
-
 ## Application
 High self-monitoring seems like a dual-edged sword.  On the one hand, self-monitoring allows individuals to present a “better self,” with all its attached social rewards.  At the same time, I have to wonder about possible identity conflict and issues of authenticity.  The author writes, “The expressive behavior of self-monitoring individuals should be more reflective of an internal affect state when it is generated in a situation with minimal incentives for, and cues to, self-monitoring.”  A manager seeking honest feedback might be better off getting it from a low self-monitor than a high self-monitor.

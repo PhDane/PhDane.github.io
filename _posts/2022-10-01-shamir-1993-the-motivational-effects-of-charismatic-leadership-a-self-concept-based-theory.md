@@ -17,7 +17,6 @@ In the followers, the transformation of the self-concept happens through _person
 ## Application
 I’ve been told several times that leadership studies are a dying field, but this theoretical paper still seems to have some application, especially for managers looking to motivate.  Two more notes - charismatic leaders can be good (“Gandhi”) or bad (“Hitler”).  There are some organizational elements that are more likely to be present when charismatic leadership is also present: performance goals aren’t defined or are difficult to measure, the situation has some moral element (e.g., unlikely to emerge in tobacco production), high levels of uncertainty or “exceptional conditions.”
 
-
 _PROPOSITION 1_. In order to implicate the followers' self-concepts, compared to noncharismatic leaders, the deliberate and nondeliberate messages of charismatic leaders will contain:
 (a) more references to values and moral justifications,
 (b) more references to the collective and to collective identity,
@@ -51,4 +50,3 @@ _PROPOSITION 7_. The emergence and effectiveness of charismatic leaders will be 
 (c) Extrinsic rewards cannot be made clearly contingent on individual performance,
 (d) There are few situational cues, constraints and reinforcers to guide behavior and provide incentives for specific performance,
 (e) Exceptional effort, behavior and sacrifices are required of both the leaders and followers.
-

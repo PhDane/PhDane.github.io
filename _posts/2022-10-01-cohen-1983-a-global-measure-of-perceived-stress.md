@@ -16,5 +16,6 @@ The PSS is meant to measure the degree to which events feel “unpredictable, un
 ---
 ![Perceived Stress Scale 10](/images/Cohen1988-PerceivedStressScore10.png){: style="max-width: 80%"}
 ---
+
 ## Application
 A useful tool for assessing general stress.  Longitudinally stable at 2 days, less so at 6 weeks (though still acceptable).

@@ -18,6 +18,5 @@ Humans have a fundamental need to create and maintain social relationships.  We 
 
 Finally, people need to see themselves as consistent with previous behaviors and trait attributes (“maintaining a positive self-concept”).  The _foot-in-the-door_ technique makes use of this by first making a small request (which must result in compliance or attempted compliance), and then following it with a larger one.  The target, in an effort to maintain consistency, is more likely to comply with the second request.  Public commitments are “more persistent than private commitments.”  This is exploited through the _low-ball technique_, wherein the cost of an arrangement is substantially increased _after_ commitment has been secured.
 
-
 ## Application
 Compliance studies has significant applicability for managers, who are responsible for getting their inferiors to agree with their superiors.  Sales techniques can also utilize many of these processes.
