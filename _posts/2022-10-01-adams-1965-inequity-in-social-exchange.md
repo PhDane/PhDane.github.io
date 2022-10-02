@@ -6,7 +6,6 @@ categories: [Comps]
 tags: [comps, nwt, motivation, inequality, inequity, justice, distributive justice, reference point, framing]
 math: true
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=inequity+in+social+exchange&btnG=)
 
 Adams, J. S. (1965). Inequity in social exchange. In Advances in experimental social psychology (Vol. 2, pp. 267-299). Academic Press.

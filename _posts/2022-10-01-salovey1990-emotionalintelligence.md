@@ -3,7 +3,7 @@ layout: post
 title: Salovey 1998 - Emotional Intelligence
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [emotions, emotional intelligence, empathy, comps]
+tags: [comps, emotions, emotional intelligence, empathy, comps]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=emotional+intelligence&btnG=)
 

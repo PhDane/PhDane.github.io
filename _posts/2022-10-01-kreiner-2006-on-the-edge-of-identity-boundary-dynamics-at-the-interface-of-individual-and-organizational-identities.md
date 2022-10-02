@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, identity, balance, boundaries, organizational identity, self-identity, theory, great paper]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=On+the+edge+of+identity%3A+Boundary+dynamics+at+the+interface+of+individual+and+organizational+identities&btnG=)
 
 Kreiner, G. E., Hollensbe, E. C., & Sheep, M. L. (2006). On the edge of identity: Boundary dynamics at the interface of individual and organizational identities. Human relations, 59(10), 1315-1341.

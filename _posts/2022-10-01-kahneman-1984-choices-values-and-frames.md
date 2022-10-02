@@ -3,9 +3,8 @@ layout: post
 title: Kahneman 1984 - Choices, values, and frames
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [great paper, nwt, jdm, framing, heuristic, prospect theory, risk]
+tags: [comps, great paper, nwt, jdm, framing, heuristic, prospect theory, risk]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=choices+value+and+frames&btnG=)
 
 Kahneman, D., & Tversky, A. (1984). Choices, values, and frames. American psychologist, 39(4), 341.

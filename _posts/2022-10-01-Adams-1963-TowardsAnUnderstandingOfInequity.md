@@ -9,7 +9,7 @@ tags: [comps, inequity, injustice, fairness, resentment]
 
 Adams, J. S. (1963). Towards an understanding of inequity. The journal of abnormal and social psychology, 67(5), 422.
 
-todo: insert bib entry, insert links to 2 Festinger papers, insert other link
+todo: insert links to 2 Festinger papers, insert other link
 
 ## Summary
 Inequity is related to unfairness.  When a person feels that what they provide as an employee (their “inputs”) is not matched by what they receive from a job (their “outputs”), the person feels that they are being treated unfairly.  Inputs can be many things: level of education, social network, experience, intelligence, and effort (among others).  What makes something an input is that either party in an exchange _perceives_ it as having value.  Outcomes can also take many forms, such as pay, job status, fringe benefits, and other “formally and informally sanctioned perquisites” (like having a reserved parking spot).  What makes something an output is that the _receiver perceives_ it as having value.  If the receiver does not view something as having value (for example, a company t-shirt given upon hiring), then it is not an output.  Most times, the exchange also involves a third party, called a reference group.  This is often a coworker to whom a person is comparing their situation.

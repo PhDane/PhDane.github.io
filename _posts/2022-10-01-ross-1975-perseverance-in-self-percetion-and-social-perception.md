@@ -3,9 +3,8 @@ layout: post
 title: Ross 1975 - Perseverance in Self-Perception and Social Perception - Biased Attributional Processes in the Debriefing Paradigm
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [first impressions, deception, ethics, philosophy of science, anchoring, framing, debriefing, methods]
+tags: [comps, first impressions, deception, ethics, philosophy of science, anchoring, framing, debriefing, methods]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Perseverance+in+Self-Perception+and+Social+Perception%3A+Biased+Attributional+Processes+in+the+Debriefing+Paradigm&btnG=)
 
 Ross, L., Lepper, M. R., & Hubbard, M. (1975). Perseverance in self-perception and social perception: biased attributional processes in the debriefing paradigm. Journal of personality and social psychology, 32(5), 880.

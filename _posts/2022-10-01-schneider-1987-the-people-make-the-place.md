@@ -3,7 +3,7 @@ layout: post
 title: Schneider 1987 - The People Make the Place
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [philosophy of science, personality, environment]
+tags: [comps, philosophy of science, personality, environment]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=the+people+make+the+place&btnG=)
 

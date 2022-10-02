@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, scale validation, validity, great paper, scale development]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Constructing+Validity%3A+New+Developments+in+Creating+Objective+Measuring+Instruments&btnG=)
 
 Clark, L. A., & Watson, D. (2019). Constructing validity: New developments in creating objective measuring instruments. Psychological assessment, 31(12), 1412.

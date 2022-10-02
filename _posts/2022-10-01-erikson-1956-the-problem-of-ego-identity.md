@@ -3,9 +3,8 @@ layout: post
 title: Erikson 1956 - The Problem of Ego Identity
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [identity, historical, identity development, rock-bottom, comps]
+tags: [comps, identity, historical, identity development, rock-bottom, comps]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=erikson+problem+of+ego+identity&btnG=&oq=erikson+problem+of+)
 
 Erikson, E. H. (1956). The problem of ego identity. Journal of the American Psychoanalytic Association, 4(1), 56-121.

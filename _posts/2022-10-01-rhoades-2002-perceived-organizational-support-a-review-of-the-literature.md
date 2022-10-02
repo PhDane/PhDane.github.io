@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [perceived organizational support, comps, meta-analysis, review, fairness, commitment, bosses, relationships]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Perceived+organizational+support&btnG=)
 
 Rhoades, L., & Eisenberger, R. (2002). Perceived organizational support: a review of the literature. Journal of applied psychology, 87(4), 698.

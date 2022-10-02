@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, economics, judgement and decision making, bounded rationality, deliberation costs]
 ---
-
 [Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=why+bounded+rationality&btnG=&oq=why+boun)
 
 Conlisk, J. (1996). Why bounded rationality?. Journal of economic literature, 34(2), 669-700.

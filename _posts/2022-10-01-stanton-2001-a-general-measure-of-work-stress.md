@@ -3,9 +3,8 @@ layout: post
 title: Stanton 2001 - A General Measure of Work Stress - The Stress in General Scale
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [scales, scale development, stress, work stress, great paper, pressure, threat]
+tags: [comps, scales, scale development, stress, work stress, great paper, pressure, threat]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=A+general+measure+of+work+stress%3A+The+stress+in+general+scale&btnG=)
 
 Stanton, J. M., Balzer, W. K., Smith, P. C., Parra, L. F., & Ironson, G. (2001). A general measure of work stress: The stress in general scale. Educational and Psychological Measurement, 61(5), 866-888.

@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, intention, self-regulation, intention-behavior gap, goal setting, feedback]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=intention+behavior+gap&btnG=)
 
 Sheeran, P., & Webb, T. L. (2016). The intention–behavior gap. Social and personality psychology compass, 10(9), 503-518.

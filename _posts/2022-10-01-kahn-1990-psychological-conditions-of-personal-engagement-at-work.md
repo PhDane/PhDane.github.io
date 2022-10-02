@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, theory, qualitative, great paper, job characteristics, meaningfulness, psychological safety, availability]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=PSYCHOLOGICAL+CONDITIONS+OF+PERSONAL+ENGAGEMENT+AND+DISENGAGEMENT+AT+WORK&btnG=)
 
 Kahn, W. A. (1990). Psychological conditions of personal engagement and disengagement at work. Academy of management journal, 33(4), 692-724.

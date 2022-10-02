@@ -3,9 +3,8 @@ layout: post
 title: Taylor 1983 - Adjustment to Threatening Events - A Theory of Cognitive Adaptation
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [great paper, adaptation, threat response, meaning, self-esteem, autonomy, competence, coping, firing, control, threat, framing]
+tags: [comps, great paper, adaptation, threat response, meaning, self-esteem, autonomy, competence, coping, firing, control, threat, framing]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Adjustment+to+Threatening+Events+a+theory+of+cognitive+adaptation&btnG=)
 
 Taylor, S. E. (1983). Adjustment to threatening events: A theory of cognitive adaptation. American psychologist, 38(11), 1161.

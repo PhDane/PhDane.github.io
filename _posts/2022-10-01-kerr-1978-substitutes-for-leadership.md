@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, leadership, philosophy of science, scale development, nwt]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Substitutes+for+leadership+-+Their+meaning+and+measurement&btnG=)
 
 Kerr, S., & Jermier, J. M. (1978). Substitutes for leadership: Their meaning and measurement. Organizational behavior and human performance, 22(3), 375-403.

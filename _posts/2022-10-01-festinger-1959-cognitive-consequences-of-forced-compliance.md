@@ -3,9 +3,8 @@ layout: post
 title: Festinger 1959 - Cognitive consequences of forced compliance
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [cognitive dissonance, forcing, autonomy, compliance]
+tags: [comps, cognitive dissonance, forcing, autonomy, compliance]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=cognitive+consequences+of+forced+compliance&btnG=)
 
 Festinger, L., & Carlsmith, J. M. (1959). Cognitive consequences of forced compliance. The journal of abnormal and social psychology, 58(2), 203.

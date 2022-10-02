@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, identity, identity work, narrative, role transition, authenticity, great paper]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Identity+as+narrative%3A+Prevalence%2C+effectiveness%2C+and+consequences+of+narrative+identity+work+in+macro+work+role+transitions&btnG=)
 
 Ibarra, H., & Barbulescu, R. (2010). Identity as narrative: Prevalence, effectiveness, and consequences of narrative identity work in macro work role transitions. Academy of management review, 35(1), 135-154.

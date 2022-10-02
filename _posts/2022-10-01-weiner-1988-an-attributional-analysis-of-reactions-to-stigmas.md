@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, volition, attribution, great paper, stigma, mental illness, agency, pity, charity, AIDS]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=An+Attributional+Analysis+of+Reactions+to+Stigmas&btnG=)
 
 Weiner, B., Perry, R. P., & Magnusson, J. (1988). An attributional analysis of reactions to stigmas. Journal of personality and social psychology, 55(5), 738.

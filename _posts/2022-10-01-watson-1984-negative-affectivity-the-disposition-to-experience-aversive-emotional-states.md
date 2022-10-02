@@ -3,9 +3,8 @@ layout: post
 title: Watson 1984 - Negative affectivity - the disposition to experience aversive emotional states
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [negative affectivity, depression, positivity, scale development]
+tags: [comps, negative affectivity, depression, positivity, scale development]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Negative+Affectivity%3A+The+Disposition+to+Experience+Aversive+Emotional+States&btnG=)
 
 Watson, D., & Clark, L. A. (1984). Negative affectivity: the disposition to experience aversive emotional states. Psychological bulletin, 96(3), 465.

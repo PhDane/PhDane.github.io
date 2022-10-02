@@ -3,9 +3,8 @@ layout: post
 title: Kelley 1980 - Attribution Theory and Research
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [comps, attribution theory, nwt, fundamental attribution bias, motivation, incentives, micromanaging]
+tags: [comps, attribution theory, nwt, fundamental attribution error, motivation, incentives, micromanaging]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=attribution+theory+and+research&btnG=)
 
 https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=attribution+theory+and+research&btnG=

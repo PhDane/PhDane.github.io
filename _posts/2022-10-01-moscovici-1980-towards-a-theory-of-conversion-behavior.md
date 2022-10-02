@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, conversion, compliance, subversion, minority, deviance, consistency]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=towards+a+theory+of+conversion+behavior&btnG=)
 
 Moscovici, S. (1980). Toward a theory of conversion behavior. In Advances in experimental social psychology (Vol. 13, pp. 209-239). Academic Press.

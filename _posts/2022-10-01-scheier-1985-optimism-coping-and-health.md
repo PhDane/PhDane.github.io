@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, optimism, scale development, depression, stress, coping, nwt]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Optimism%2C+Coping%2C+and+Health%3A+Assessment+and+Implications+of+Generalized+Outcome+Expectancies&btnG=)
 
 Scheier, M. F., & Carver, C. S. (1985). Optimism, coping, and health: assessment and implications of generalized outcome expectancies. Health psychology, 4(3), 219.

@@ -3,9 +3,8 @@ layout: post
 title: Cohen 1983 - A Global Measure of Perceived Stress
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [stress, scale validation, scale development]
+tags: [comps, stress, scale validation, scale development]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=a+global+measure+of+perceived+stress&btnG=&oq=global)
 
 Cohen, S., Kamarck, T., & Mermelstein, R. (1983). A global measure of perceived stress. Journal of health and social behavior, 385-396.

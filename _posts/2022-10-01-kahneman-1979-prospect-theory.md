@@ -6,7 +6,6 @@ categories: [Comps]
 tags: [comps, JDM, prospect theory, great paper, framing]
 math: true
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=prospect+theory+an+analysis+of+decision+under+risk&btnG=)
 
 Kahneman, & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. Econometrica, 47(2), 263–291. https://doi.org/10.2307/1914185

@@ -3,8 +3,7 @@ layout: post
 title: Schein 1996 - Culture - The Missing Concept in Organization Studies
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [comps, culture, history of organizational behavior, philosophy of science,
-  metascience, theory generation, practitioner]
+tags: [comps, culture, history of organizational behavior, philosophy of science, metascience, theory generation, practitioner]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=5%2C45&sciodt=0%2C45&cites=630780516145626273&scipsc=&q=Culture%3A+The+Missing+Concept+in+Organization+Studies&btnG=)
 

@@ -3,8 +3,7 @@ layout: post
 title: Akerlof 2005 - Identity and the Economics of Organizations
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [comps, good examples, great paper, norms, identity, socialization, culture,
-  micromanaging, upending experience, military]
+tags: [comps, good examples, great paper, norms, identity, socialization, culture, micromanaging, upending experience, military]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Identity+and+the+Economics+of+Organizations&btnG=)
 

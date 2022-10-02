@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, identity, overidentification, differentiation, integration, great paper, priest, identity work, qualitative, theory]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Where+is+the+%22me%22+among+the+%22we%22%3F+Identity+work+and+the+search+for+optimal+balance&btnG=)
 
 Kreiner, G. E., Hollensbe, E. C., & Sheep, M. L. (2006). Where is the “me” among the “we”? Identity work and the search for optimal balance. Academy of Management Journal, 49(5), 1031-1057.

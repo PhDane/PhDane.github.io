@@ -5,7 +5,6 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, goals, management, self-control, self-regulation, success]
 ---
-
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=self-regulation+through+goal+setting&btnG=)
 
 Latham, G. P., & Locke, E. A. (1991). Self-regulation through goal setting. Organizational behavior and human decision processes, 50(2), 212-247.
