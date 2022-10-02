@@ -38,7 +38,8 @@ The weighting function recognizes that lower frequencies are often subjectively 
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/nFTRwD85AQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
->**Note:** Current research indicates that the actual crossover for true probability and decision-weighted probability occurs at approximately 0.35 (not the lower value shown on this graph). {: .prompt-tip }
+>**Note:** Current research indicates that the actual crossover for true probability and decision-weighted probability occurs at approximately 0.35 (not the lower value shown on this graph). 
+{: .prompt-tip }
 
 The value function highlights the fact that, rather than being sensitive to absolute magnitudes, humans are instead attuned to _relative_ changes.  As the authors put it, “The same level of wealth, for example, may imply abject poverty for one person and great riches for another – depending on their current assets.”  Specifically, “losses loom larger than gains.”  This is shown by the fact that the loss side of the function has a steeper slope than does the gain function.  The value function is both monotonic and  non-linear, as shown below…
 
