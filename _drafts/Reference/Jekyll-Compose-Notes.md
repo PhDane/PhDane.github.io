@@ -39,6 +39,5 @@ Inserting a local picture
     <img width="80%" img src="../images/TheoryOfPlannedBehavior.PNG" alt="Theory of Planned Behavior">
 </p>
 
-OR NON-CENTERED (just markdown)
-
-![Theory of Planned Behavior](/images/TheoryOfPlannedBehavior.PNG =80%x)
+OR EASY CENTERED
+![Stigmas in Two Dimensions](/images/Weiner1988-ReactionsToStigma.png){: style="max-width: 80%"}
