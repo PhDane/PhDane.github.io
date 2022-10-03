@@ -9,13 +9,12 @@ tags: [comps, great paper, self-determination theory, rewards, autonomy, volitio
 
 Ryan, R. M., & Deci, E. L. (2000). Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being. American psychologist, 55(1), 68.
 
-## Summary
-![Ryan 2000 Self-Determination Theory](/images/ryan2000-selfdeterminationtheory.png){: style="max-width: 80%"}
-
 This was a very well-written article.  It is clear and logical in its flow.  It cites convincing research in favor of its argument.  I can see why it has so many citations.
 
 ## Summary
 **Self-determination theory** (SDT) seeks to explain intrinsic motivation, self-regulation and well-being by proposing three innate, psychological needs - **competence, autonomy, and relatedness**.  Motivation deals with both activation and intention.  Its end result is the production of specific outcomes.  Motivation can either be intrinsic or extrinsic.  **Intrinsic motivation** “refers to doing an activity for the inherent satisfaction of the activity itself.”  **Extrinsic motivation** refers to doing an activity in order to achieve a specific outcome.  
+
+![Ryan 2000 Self-Determination Theory](/images/ryan2000-selfdeterminationtheory.png){: style="max-width: 80%"}
 
 **Cognitive evaluation theory** (CET), a subtheory of SDT, contends that social-contextual events that lead to feelings of action-specific competence (like feedback and rewards) strengthen intrinsic motivation for that specific action.  Positive feedback strengthens intrinsic motivation, while negative feedback weakens it.  The feelings of competence must also be accompanied by feelings of autonomy in order for intrinsic motivation (i.e., the action cannot be perceived as being forced upon the subject).  Extrinsic rewards erode intrinsic motivation (as shown by [Festinger](todo: insert year and link to his forced compliance article) because the action is chosen _because_ of the reward and not strictly based on the agency of the subject.  Intrinsic motivation can instead be strengthened by allowing for choice, acknowledging feelings, and giving opportunities for self-direction.  Not all activities can be intrinsically motivated.  The best candidate activities will “hold intrinsic interest for [the subject]” and have “the appeal of novelty, challenge, or aesthetic value.”
 

@@ -7,7 +7,7 @@ tags: [comps, punishment, reinforcement, bad paper]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=role+of+punishment+in+organizational+behavior+modification&btnG=)
 
-todo: insert bib entry,
+Luthans, F., & Kreitner, R. (1973). The role of punishment in organizational behavior modification (OB MOD). Public Personnel Management, 2(3), 156-161.
 
 This is a good example of a bad paper - little science and a lot of supposition.
 

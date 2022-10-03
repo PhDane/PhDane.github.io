@@ -7,7 +7,7 @@ tags: [comps, heuristic, JDM, representativeness]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=subjective+probability+a+judgment+of+representativeness&btnG=)
 
-https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=subjective+probability+a+judgment+of+representativeness&btnG=
+Kahneman, D., & Tversky, A. (1972). Subjective probability: A judgment of representativeness. Cognitive psychology, 3(3), 430-454.
 
 ## Summary
 **Representativeness** is a heuristic wherein the characteristics of a sample are evaluated against the supposed characteristics of the population.  For example, a family with 3 boys and 3 girls will be judged to be more representative than a family of 5 boys and 1 girl.  The supposed distribution of genders is 50/50, so the first family, with a matching gender distribution, is seen as more representative.  Samples that are judged more representative are also judged to be more probable.  Samples that preserve majority-minority relations are perceived as more representative and more probable.  Samples that contain all possible outcomes of the population are viewed as more representative and more probable.

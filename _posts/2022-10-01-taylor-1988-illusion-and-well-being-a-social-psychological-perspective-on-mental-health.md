@@ -5,6 +5,10 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, depression, positivity, mental health, heuristic, self-concept, self-confidence, control, optimism, illusion]
 ---
+[Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Illusion+and+Well-Being+-+A+Social+Psychological+Perspective+on+Mental+Health&btnG=)
+
+Taylor, S. E., & Brown, J. D. (1988). Illusion and well-being: a social psychological perspective on mental health. Psychological bulletin, 103(2), 193.
+
 ## Summary
 Mental health is generally associated with having a realistic perception of one’s self and of the external world.  This paper, and other substantial research, shows that mentally healthy people engage in three **illusions**.  An illusion is a “false mental image or conception.”  Mentally healthy people have 1) “unrealistically positive views of the self,” 2) “exaggerated perceptions of personal control,” and 3) “unrealistic optimism.”  Surprisingly, depressed individuals and those low in self-esteem tend to not show these perceptual discrepancies.  Taken together, these seem to suggest that realistic self-concepts are _not_ consistent with mental health.
 

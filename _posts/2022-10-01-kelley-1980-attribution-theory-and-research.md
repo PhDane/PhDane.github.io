@@ -7,7 +7,7 @@ tags: [comps, attribution theory, nwt, fundamental attribution error, motivation
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=attribution+theory+and+research&btnG=)
 
-https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=attribution+theory+and+research&btnG=
+Kelley, H. H., & Michela, J. L. (1980). Attribution theory and research. Annual review of psychology, 31(1), 457-501.
 
 ## Summary
 **Attribution theory** deals with the perceived causes of behavior, and the differences between how we perceive our own behavioral causes and how others perceive our behavioral causes.  Similar to [fundamental attribution bias](todo: insert link), we attribute failure to external or situational causes and success to internal or dispositional causes.  This review examines antecedents of attributions and consequences of attributions.

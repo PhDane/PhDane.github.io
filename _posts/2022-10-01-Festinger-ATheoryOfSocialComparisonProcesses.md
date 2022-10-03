@@ -9,7 +9,6 @@ tags: [comps, social comparison, reference, comparison, anchoring, great paper]
 
 Festinger, L. (1954). A theory of social comparison processes. Human relations, 7(2), 117-140. 
 
-Todo: 
 ## Summary
 Humans have an innate tendency to compare themselves to others, specifically their opinions and their abilities.  People want to know if their opinions are “correct” and if their assessment of their abilities is accurate.  If there exists no “objective” measure (this is our first preference), people will achieve this through social comparison.  Without the fixed point of an objective measure or a social comparison, our evaluations of our opinions and abilities are unstable (another reason why consistent feedback can help promote consistency).
 

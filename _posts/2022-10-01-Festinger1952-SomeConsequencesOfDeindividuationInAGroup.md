@@ -7,7 +7,7 @@ tags: [comps, anonymity, de-individuation, group]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&as_vis=1&q=Some+Consequences+of+De-individuation+in+a+Group.&btnG=)
 
-Festinger, Pepitone, A., & Newcomb, T. (1952). Some consequences of de-individuation in a group. Journal of Abnormal and Social Psychology, 47(2S), 382–389. https://doi.org/10.1037/h0057906
+Festinger, L., Pepitone, A., & Newcomb, T. (1952). Some consequences of de-individuation in a group. Journal of Abnormal Psychology, 47.
 
 ## Summary
 _De-individuation_ in a group is the tendency for individuals to become “submerged in the group.”  When de-individuation occurs, individuals are not singled out or seen as individuals.  In these situations, individual group members tend to act less inhibited than they normally would.  This decreased restraint allows individuals to do things that they want to do but might not otherwise do.  An example of this can be seen when a crowd becomes violent to an outgroup member (as can sometimes occur in political rallies).  Groups that provide de-individuation are attractive because they allow an individual to act without restraint.  If a group only provides de-individuation, it will not be very stable.  Another effect of deindividuation is that there will be less attention paid to which individual member does what.  If a group provides only individuation (i.e., they will be treated as if they were not in the group and were simply an unaffiliated individual), it will most likely not provide any benefit to its members.

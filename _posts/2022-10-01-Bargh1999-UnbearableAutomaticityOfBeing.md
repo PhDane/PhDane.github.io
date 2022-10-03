@@ -7,7 +7,7 @@ tags: [comps,unconscious processes,automaticity,replicability crisis]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=The+unbearable+automaticity+of+being&btnG=)
 
-todo: insert bib entry,
+Bargh, J. A., & Chartrand, T. L. (1999). The unbearable automaticity of being. American psychologist, 54(7), 462.
 
 ## Summary
 In an effort to preserve cognitive resources, repeated effort can eventually become unconscious, “free[ing] one’s limited conscious attentional capacity from tasks in which they are no longer needed.”  A tennis player moves unconsciously to return a serve, yet that is the result of many hours of conscious, intentional repetition and practice.  When one performs tasks unconsciously, this is referred to as _automatization_.  Automatization can also occur unintentionally, by repeatedly making a choice in a situation.  This is one way that stereotypes are formed.

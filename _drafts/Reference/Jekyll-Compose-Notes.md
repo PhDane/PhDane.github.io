@@ -36,7 +36,7 @@ Inserting a local picture
 - max width scales it, and the below code is for a centered picture (using a deprecated HTML tag)
 
 <p align="center">
-    <img width="80%" img src="../images/TheoryOfPlannedBehavior.PNG" alt="Theory of Planned Behavior">
+    <img width="80%" img src="../images/TheoryOfPlannedBehavior.png" alt="Theory of Planned Behavior">
 </p>
 
 OR EASY CENTERED

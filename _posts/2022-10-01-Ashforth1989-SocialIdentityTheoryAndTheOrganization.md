@@ -5,9 +5,11 @@ date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
 tags: [comps, identity, subgroups, group conflict, great paper]
 ---
+Ashforth, B. E., & Mael, F. (1989). Social identity theory and the organization. Academy of management review, 14(1), 20-39.
+
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=Social+identity+theory+and+the+organization&btnG=)
 
-todo: insert bib entry, insert link
+todo: insert link
 
 ## Summary
 Social Identity Theory (SIT) states that people lump themselves and others into categories.  Sorting into categories allows us to conserve cognitive resources by dealing with a single group as opposed to many different individuals.  Additionally, this categorization allows us to locate and define ourselves in the social environment.  Shared, “prototypical” attributes amongst a group’s members are used to define a category.  People have both a “personal” identity (how they are different from others) and a “social” identity (how they are similar to others, i.e., groups to which they belong).  As with [inequity](todo: link to Adams inequity paper), what is important is the _perception_ of the person.  If a person _perceives_ themselves to be a part of the group (“psychologically intertwined with the fate of the group”), then the effects are the same as if they were objectively part of the group (think superfans and sports teams).
