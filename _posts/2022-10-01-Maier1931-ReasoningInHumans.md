@@ -4,7 +4,7 @@ title: Maier 1931 - Reasoning in Humans - The Solution of a Problem and its Appe
   in Consciousness
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [comps, insight, problem solving, inspiration, great paper]
+tags: [comps, insight, problem solving, inspiration, great paper, great design]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=maier+1931&btnG=)
 
