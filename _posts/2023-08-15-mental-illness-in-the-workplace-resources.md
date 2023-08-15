@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Working List of Resources Regarding Mental Illness in the Workplace
-date: 2023-08-05 00:00:00 -0600
+date: 2023-08-05 12:00:00 -0600
 categories: "[Mental Illness in the Workplace,Resources]"
 tags: "[mental illness,workplace]"
 ---
