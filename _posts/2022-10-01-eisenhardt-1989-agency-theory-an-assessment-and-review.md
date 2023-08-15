@@ -3,7 +3,7 @@ layout: post
 title: Eisenhardt 1989 - Agency Theory - An Assessment and Review
 date: 2022-06-16 12:00:00 -0600
 categories: [Comps]
-tags: [comps, good paper, strategy, risk, agency theory, contracts]
+tags: [comps, great paper, strategy, risk, agency theory, contracts]
 ---
 [Google Scholar Link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C45&q=agency+theory+eisenhardt&btnG=)
 

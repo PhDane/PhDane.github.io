@@ -14,7 +14,7 @@ Petriglieri, J. L. (2011). Under threat: Responses to and the consequences of th
 
 _Anticipated identity harm_ takes three forms - 1) an event could devalue an identity, 2) it could strip away or change the meanings of an identity, or 3) it could limit or prevent an identity’s future enactment.  Identity devaluation commonly occurs as a result of intergroup conflict.  The meaning of an identity can come under attack either from the self (provoking dissonance) or externally.  Future enactment of an identity can be jeopardized by a growing, conflicting identity.
 
-_Identity threat coping responses_ either seek to protect the identity or to restructure the identity.  Identity protection generally occurs through derogation of the threat, concealment of the identity (so that it’s not as available to be threatened), and positive distinctiveness.  _Positive distinctiveness_ refers to the tactic whereby an individual under threat attempts to frame the identity positively, rather than negatively.  Identity restructuring techniques include changing the salience or importance of a threatened identity, changing the meanings associated the identity, and abandoning the identity.  The model is presented below.
+_Identity threat coping responses_ either seek to protect the identity or to restructure the identity.  Identity protection generally occurs through derogation of the threat, concealment of the identity (so that it’s not as available to be threatened), and positive distinctiveness.  _Positive distinctiveness_ refers to the tactic whereby an individual under threat attempts to frame the identity positively, rather than negatively.  Identity restructuring techniques include changing the salience or importance of a threatened identity, changing the meanings associated with the identity, and abandoning the identity.  The model is presented below.
 
 ![Identity Threat Model](/images/Petriglieri2011-IdentityThreatModel.png){: style="max-width: 80%"}
 
@@ -24,13 +24,11 @@ The model is accompanied by 8 propositions, listed below.
 
 > Proposition 1: The stronger the identity threat (in terms of magnitude and/or frequency), the more likely individuals will pursue an identity-restructuring response.
 
-> Proposition 2: The more social support available for a threatened identity, the more likely  individuals will pursue an identity-protection response.
+> Proposition 2: The more social support available for a threatened identity, the more likely individuals will pursue an identity-protection response.
 
-> Proposition 3: Among identity threats that provoke identity-protection responses, individuals are likely to pursue a derogation response when they cannot interact with the people who
-are the source of the threat.
+> Proposition 3: Among identity threats that provoke identity-protection responses, individuals are likely to pursue a derogation response when they cannot interact with the people who are the source of the threat.
 
-> Proposition 4: Among identity threats that provoke identity-protection responses, individuals will only pursue a positive-distinctiveness response if they believe it possible to change others'
-perceptions of their identity.
+> Proposition 4: Among identity threats that provoke identity-protection responses, individuals will only pursue a positive-distinctiveness response if they believe it possible to change others' perceptions of their identity.
 
 > Proposition 5a: Among identity threats that provoke identity-protection responses, the less important the threatened identity, the more likely individuals will pursue a concealment response.  
 > Proposition 5b: Among identity threats that provoke identity-protection responses, the more important the threatened identity, the more likely individuals will pursue a positive-distinctiveness response.
@@ -42,4 +40,4 @@ perceptions of their identity.
 > Proposition 8: Among identity threats that provoke identity-restructuring responses, the importance-change response is more likely when the threatened identity is established.
 
 ## Application
-Organizational consequences to identity threat are clear from the above table.  Understanding the paths available can assist managers in better plotting a strategy that will eliminate the threat (and hopefully provide an opportunity to reframe the experience as one that provided growth).  Future research could consist of (as the author pointed out) scale development for assessing identity threat.  It seems to me like there might need to be more research on the specific characteristics of an identity that make it vulnerable to threat.
+Organizational consequences to identity threat are clear from the above table.  Understanding the paths available can assist managers in better plotting a strategy that will eliminate the threat (and hopefully provide an opportunity to reframe the experience as one that provided growth).  Future research could consist of (as the author pointed out) scale development for assessing identity threat.  It seems that there might need to be more research on the specific characteristics of an identity that make it vulnerable to threat.
