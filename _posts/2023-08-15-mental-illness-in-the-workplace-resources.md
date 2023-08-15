@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Working List of Resources Regarding Mental Illness in the Workplace
-date: YYYY-MM-DD HH:MM:SS -0600
+date: 2023-08-05 00:00:00 -0600
 categories: "[Mental Illness in the Workplace,Resources]"
 tags: "[mental illness,workplace]"
 ---
+## FROM USA
+### Surgeon General
+- [Surgeon General’s Framework for Mental Health & Well-Being in the Workplace](https://drive.google.com/file/d/12ady-BoWqmLQpY_TtT6dPT_RlwrP7OgJ/view?usp=drive_link) - 30 page report focusing on 1) Protection from Harm, 2) Connection and Community, 3) Work-Life Harmony, 4) Mattering at Work, and 5) Opportunities for Growth.
+
 ## FROM CANADA
 ### Mental Health Commission of Canada
  - [Being a Mindful Employee: An Orientation to Psychological Health and Safety in the Workplace](https://www.ccohs.ca/products/courses/mindful_employee/) - free 90 minutes course. "Gain an understanding of the 13 factors that influence psychosocial health and safety in the workplace."
