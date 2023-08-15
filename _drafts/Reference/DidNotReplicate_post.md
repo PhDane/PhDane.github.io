@@ -11,7 +11,8 @@ todo: insert bib entry,
 
 ## Summary
 * [Ego depletion](https://en.wikipedia.org/wiki/Ego_depletion#Criticism)
-* Moral licensing
+* power posing
+* Moral licensing??
 * [Embodied cognition](https://en.wikipedia.org/wiki/Embodied_cognition) ([power posing, holding warm cup makes you act warmly, thinking of senior citizens makes you walk slower](https://qz.com/1525854/psychologys-replication-crisis-is-debunking-embodied-cognition-theory/))
 * marshmallow test (see Watts 2018 - Revisiting the Marshmallow Test: A Conceptual Replication Investigating Links Between Early Delay of Gratification and Later Outcomes)
     * though they have an interesting finding, most of the predictive power in resisting the temptation came from the first 20 seconds (if a kid waited 20 seconds, they were just as likely to succeed in delaying gratification as a kid who had waited 7 minutes)
