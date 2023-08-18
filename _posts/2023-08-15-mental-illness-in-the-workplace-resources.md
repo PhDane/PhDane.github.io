@@ -5,12 +5,35 @@ date: 2023-08-15 12:00:00 -0600
 categories: "[MentalIllnessInWorkplace, Resources]"
 tags: "[mental illness, workplace]"
 ---
+## Resources
+### US Department of Labor - Office of Disability Employment Policy
+- [Job Accomodation Network](https://askjan.org/){:target="_blank"} - Guidance on job accomodations (can search by disability to find lists of possible accomodations) and disability employment.  They also provide one-on-one guidance.
+
+### U.S. Equal Employment Opportunity Commission
+- [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/overview){:target="_blank"} - Enforces federal laws making discrimination illegal.  Employers generally need to have at least 15 employees to fall under their purview.
+
+### ADA National Network
+[Website](https://adata.org/){:target="_blank"} - Has regional offices nationwide.  Maintains a [comprehensive FAQ](https://adata.org/faq-search?keys=&tid=All&tid_1=All&spmsde_field1=){:target="_blank"} regarding the Americans with Disabilities Act (ADA).  Additionally, they give a brief yet useful [overview of the ADA](https://adata.org/learn-about-ada){:target="_blank"}.
 
 ### Surgeon General
-- [Surgeon General’s Framework for Mental Health & Well-Being in the Workplace](https://drive.google.com/file/d/12ady-BoWqmLQpY_TtT6dPT_RlwrP7OgJ/preview){:target="_blank"} - 30 page report focusing on 1) Protection from Harm, 2) Connection and Community, 3) Work-Life Harmony, 4) Mattering at Work, and 5) Opportunities for Growth.
+- [2022 Surgeon General’s Framework for Mental Health & Well-Being in the Workplace](https://drive.google.com/file/d/12ady-BoWqmLQpY_TtT6dPT_RlwrP7OgJ/preview){:target="_blank"} - 30 page report focusing on 1) Protection from Harm, 2) Connection and Community, 3) Work-Life Harmony, 4) Mattering at Work, and 5) Opportunities for Growth.
+- [1999 Mental Health: A Report of the Surgeon General](https://drive.google.com/file/d/1ANHmRYH0cVZW2Ls1XCetiB-CGjLcjD0a/preview) - Not workplace-specific and a bit dated, but much more comprehensive (almost 500 pages).
+
+### International Organization for Standardization (ISO)
+- [ISO 45003: Psychological health and safety at work](https://drive.google.com/file/d/1kg4-NoML6cYKixpSLHL89gjw-8e2bOTV/preview){:target="_blank"} - NOTE:  This posting falls under section 107 of the Copyright Act of 1976, allowance is made for "fair use."  A guide to psychological health as seen through an occupational health and safety lens.
 
 ### From SLC Chamber of Commerce
 - [Workforce Resilience](https://slchamber.com/utah-community-builders/workforce-resilience/){:target="_blank"} - Includes a 24 page "Suicide Prevention in the Workforce Employer Toolkit," industry-specfic mental health guides (for the construction, hospitality, and legal industries), and a series of video webinars.
+
+### Utah Suicide Prevention Coalition
+- [Live on.](https://liveonutah.org/workplace/){:target="_blank"} - Has a list of workplace-specific resources.
+- [Live on.](https://liveonutah.org/playbook/){:target="_blank"} - Also has a more general suicide prevention playbook.
+
+### American Foundation for Suicide Prevention
+- [https://workplacesuicideprevention.com/](https://workplacesuicideprevention.com/){:target="_blank"} - A workplace-specific suicide prevention site that includes details on their year-long H.O.P.E. certification program.
+
+### Canada Life (an insurance company)
+- [Guarding Minds at Work](https://www.workplacestrategiesformentalhealth.com/resources/guarding-minds-at-work){:target="_blank"} - Includes a 61-item employmee survey, an organizational review, and a 6-item stress satisfaction scan.  Additionally, has links to both a [Psychologically Safe Leader Assessment](https://www.workplacestrategiesformentalhealth.com/resources/what-is-the-psychologically-safe-leader-assessment){:target="_blank"} and a [Psychologically Safe Team Assessment](https://www.workplacestrategiesformentalhealth.com/resources/psychologically-safe-team-assessment){:target="_blank"}.  NOTE:  I haven't really had a chance to dive into these yet, but they seem very useful and are free... if you live in Canada (or are willing to pretend you do).
 
 ### Mental Health Commission of Canada
  - [Being a Mindful Employee: An Orientation to Psychological Health and Safety in the Workplace](https://www.ccohs.ca/products/courses/mindful_employee/){:target="_blank"} - free 90 minutes course. "Gain an understanding of the 13 factors that influence psychosocial health and safety in the workplace."
@@ -22,10 +45,9 @@ tags: "[mental illness, workplace]"
 ### Centre for Addiction and Mental Health (CAMH) - Canada
 - [Workplace Mental Health: A Review and Recommendations](https://drive.google.com/file/d/1Oz-eWvRGsVRBgFVeofyBNhAv5xNYOgtY/preview){:target="_blank"} - 25 page document covering costs of poor mental health, recommendations for business leaders, and recommendations for government.
 
+### Individual Placement Support
+- [NHS England IPS Playlist](https://www.youtube.com/watch?v=gN13LHcZ0XU&list=PLrVQaAxyJE3dk0XbY4RSOz5i46v9-wk-E&index=1){:target="_blank"}
 
-
-
-
-### Issues in the News
+## Cases
 - [US man wins $450k lawsuit after unwanted office birthday party](https://www.bbc.com/news/world-us-canada-61141421){:target="_blank"} - employee suffering from anxiety asks office not to throw him a surprise party, it happened anyway (causing a panic attack), the employee was subsequently fired and then sued the employer
 
