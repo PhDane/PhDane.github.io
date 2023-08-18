@@ -7,7 +7,7 @@ tags: "[mental illness, workplace]"
 ---
 ## Resources
 ### US Department of Labor - Office of Disability Employment Policy
-- [Job Accomodation Network](https://askjan.org/){:target="_blank"} - Guidance on job accomodations (can search by disability to find lists of possible accomodations) and disability employment.  They also provide one-on-one guidance.
+- [Job Accommodation Network](https://askjan.org/){:target="_blank"} - Guidance on job accommodations (can search by disability to find lists of possible accommodations) and disability employment.  They also provide one-on-one guidance.
 
 ### U.S. Equal Employment Opportunity Commission
 - [U.S. Equal Employment Opportunity Commission](https://www.eeoc.gov/overview){:target="_blank"} - Enforces federal laws making discrimination illegal.  Employers generally need to have at least 15 employees to fall under their purview.
