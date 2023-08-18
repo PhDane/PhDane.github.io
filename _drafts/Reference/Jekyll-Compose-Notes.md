@@ -8,6 +8,8 @@ tags: "[lowercase tags]"
 
 See [here](https://github.com/jekyll/jekyll-compose) for more commands.
 
+To open a link in a new tab [link](url){:target="_blank"}
+
 Create a new draft
 ```bash
 bundle exec jekyll draft "My new draft"
