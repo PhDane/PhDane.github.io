@@ -14,10 +14,11 @@ tags: "[mental illness, workplace]"
 
 ### ADA National Network
 [Website](https://adata.org/){:target="_blank"} - Has regional offices nationwide.  Maintains a [comprehensive FAQ](https://adata.org/faq-search?keys=&tid=All&tid_1=All&spmsde_field1=){:target="_blank"} regarding the Americans with Disabilities Act (ADA).  Additionally, they give a brief yet useful [overview of the ADA](https://adata.org/learn-about-ada){:target="_blank"}.
+[Mental Health Conditions in the Workplace and the ADA](https://adata.org/factsheet/health){:target="_blank"} - This page is of particular interest and use for our workgroup.  Has some great advice on disclosing and both employee- and employer-specific sections.
 
 ### Surgeon General
 - [2022 Surgeon General’s Framework for Mental Health & Well-Being in the Workplace](https://drive.google.com/file/d/12ady-BoWqmLQpY_TtT6dPT_RlwrP7OgJ/preview){:target="_blank"} - 30 page report focusing on 1) Protection from Harm, 2) Connection and Community, 3) Work-Life Harmony, 4) Mattering at Work, and 5) Opportunities for Growth.
-- [1999 Mental Health: A Report of the Surgeon General](https://drive.google.com/file/d/1ANHmRYH0cVZW2Ls1XCetiB-CGjLcjD0a/preview) - Not workplace-specific and a bit dated, but much more comprehensive (almost 500 pages).
+- [1999 Mental Health: A Report of the Surgeon General](https://drive.google.com/file/d/1ANHmRYH0cVZW2Ls1XCetiB-CGjLcjD0a/preview){:target="_blank"} - Not workplace-specific and a bit dated, but much more comprehensive (almost 500 pages).
 
 ### International Organization for Standardization (ISO)
 - [ISO 45003: Psychological health and safety at work](https://drive.google.com/file/d/1kg4-NoML6cYKixpSLHL89gjw-8e2bOTV/preview){:target="_blank"} - NOTE:  This posting falls under section 107 of the Copyright Act of 1976, allowance is made for "fair use."  A guide to psychological health as seen through an occupational health and safety lens.
@@ -46,7 +47,7 @@ tags: "[mental illness, workplace]"
 - [Workplace Mental Health: A Review and Recommendations](https://drive.google.com/file/d/1Oz-eWvRGsVRBgFVeofyBNhAv5xNYOgtY/preview){:target="_blank"} - 25 page document covering costs of poor mental health, recommendations for business leaders, and recommendations for government.
 
 ### Individual Placement Support
-- [NHS England IPS Playlist](https://www.youtube.com/watch?v=gN13LHcZ0XU&list=PLrVQaAxyJE3dk0XbY4RSOz5i46v9-wk-E&index=1){:target="_blank"}
+- [NHS England IPS Playlist](https://www.youtube.com/watch?v=gN13LHcZ0XU&list=PLrVQaAxyJE3dk0XbY4RSOz5i46v9-wk-E&index=1){:target="_blank"} - A quick video introduction to Individual Placement Support.
 
 ## Cases
 - [US man wins $450k lawsuit after unwanted office birthday party](https://www.bbc.com/news/world-us-canada-61141421){:target="_blank"} - employee suffering from anxiety asks office not to throw him a surprise party, it happened anyway (causing a panic attack), the employee was subsequently fired and then sued the employer
