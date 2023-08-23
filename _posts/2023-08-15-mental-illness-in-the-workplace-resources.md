@@ -30,6 +30,9 @@ tags: "[mental illness, workplace]"
 - [Live on.](https://liveonutah.org/workplace/){:target="_blank"} - Has a list of workplace-specific resources.
 - [Live on.](https://liveonutah.org/playbook/){:target="_blank"} - Also has a more general suicide prevention playbook.
 
+### Ad Council
+- [Mental Health Toolkit - Starting a Conversation](https://drive.google.com/file/d/16DKOFpCCMKMuNVVoZvENbiW8FS-r-FW8/view?usp=drive_link){:target="_blank"} - Suggestions on how to talk about mental health and wellness.  Not workplace-specific, but broadly applicable.
+
 ### American Foundation for Suicide Prevention
 - [https://workplacesuicideprevention.com/](https://workplacesuicideprevention.com/){:target="_blank"} - A workplace-specific suicide prevention site that includes details on their year-long H.O.P.E. certification program.
 
