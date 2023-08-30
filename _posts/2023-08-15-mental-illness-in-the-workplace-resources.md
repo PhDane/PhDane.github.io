@@ -6,6 +6,10 @@ categories: "[MentalIllnessInWorkplace, Resources]"
 tags: "[mental illness, workplace]"
 ---
 ## Resources
+
+### HBR and SHRM - How Leaders Can Share Their Mental Health Story
+- [Leaders: Sharing Your Own Mental Health Story Can Help You Become a Better Ally](https://drive.google.com/file/d/11Ctq2tq9CX0YHBoJDiEAbGMUMti-brrq/view?usp=drive_link){:target="_blank"} - Really useful tool for leaders.  Leaders modeling disclosure is one of the most powerful tools to help reduce workplace stigma.
+
 ### US Department of Labor - Office of Disability Employment Policy
 - [Job Accommodation Network](https://askjan.org/){:target="_blank"} - Guidance on job accommodations (can search by disability to find lists of possible accommodations) and disability employment.  They also provide one-on-one guidance.
 
