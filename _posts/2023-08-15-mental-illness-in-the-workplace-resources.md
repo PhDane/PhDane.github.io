@@ -9,6 +9,7 @@ tags: "[mental illness, workplace]"
 
 ### HBR and SHRM - How Leaders Can Share Their Mental Health Story
 - [Leaders: Sharing Your Own Mental Health Story Can Help You Become a Better Ally](https://drive.google.com/file/d/11Ctq2tq9CX0YHBoJDiEAbGMUMti-brrq/view?usp=drive_link){:target="_blank"} - Leaders modeling disclosure is one of the most powerful tools to help reduce workplace stigma.  This article provides a very useful blueprint with some great points to consider.
+- [The Latest Research on Mental Health](https://drive.google.com/file/d/1MGAnbMSBv-CBuoSWFu1BKXIc3DtBSQ07/view?usp=drive_link){:target="_blank"} - Comprehensive collection on the following topics (each topic contains 4 or more articles): Facing Anxiety and Uncertainty, Work-life Balance for Mental Health, Emotional Agility, Supporting Your Team's Mental Health, and Combating Burnout
 
 ### World Health Organization
 - [Guidelines on Mental Health at Work](https://drive.google.com/file/d/1yZKV-nSlhs70L-5RdZeEnH5Ojb-UZ6lc/view?usp=drive_link){:target="_blank"} - Evidence-based recommendations including organizational interventions, manager training and worker training, individual interventions, return to work, and gaining employment.
